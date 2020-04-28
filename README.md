@@ -39,7 +39,7 @@ python filesplit.py -c /mnt/file.7z
 
 如有其他疑问或提供相关资源请联系QQ909712710（备注来源：github-ctf_game_history）
 
-<center>
+<p>
 <img src="https://gitee.com/og/CDN/raw/master/blog/static/img/wechatpay.png" width="300"  />
 <img src="https://gitee.com/og/CDN/raw/master/blog/static/img/alipay.jpg" width="300" />
-</center>
+</p>
