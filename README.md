@@ -15,17 +15,17 @@
 例如：
 
 ```python
-原文件 -> file.7z -> 276M
+原文件 => file.7z => 276M
 
 python filesplit.py -s /mnt/file.7z
 
 经过切分后得到
-file_1.7z -> 48M
-file_2.7z -> 48M
-file_3.7z -> 48M
-file_4.7z -> 48M
-file_5.7z -> 48M
-file_6.7z -> 36.7M
+file_1.7z => 48M
+file_2.7z => 48M
+file_3.7z => 48M
+file_4.7z => 48M
+file_5.7z => 48M
+file_6.7z => 36.7M
 
 还原文件
 python filesplit.py -c /mnt/file.7z
@@ -38,9 +38,10 @@ python filesplit.py -c /mnt/file.7z
 如果本仓库对您有帮助或者您愿意支持本仓库的更新，欢迎扫码捐助（捐后不退，谨慎操作）
 
 <figure class="half">
-<img src="https://gitee.com/og/CDN/raw/master/blog/static/img/wechatpay.png" style="width:300px;" />
-<img src="https://gitee.com/og/CDN/raw/master/blog/static/img/alipay.jpg" style="width:300px;" />
+<img src="https://gitee.com/og/CDN/raw/master/blog/static/img/wechatpay.png" width="300"  />
+<img src="https://gitee.com/og/CDN/raw/master/blog/static/img/alipay.jpg" width="300" />
 </figure>
+
 
 
 如有其他疑问或提供相关资源请联系QQ909712710（备注来源：github-ctf_game_history）
