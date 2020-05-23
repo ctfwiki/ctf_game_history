@@ -12,7 +12,7 @@
 
 ### WEB
 
-#### 帮帮小红花
+#### 帮帮小红花（100）
 
 > 明明都已经有了黑页，为啥我不能上车呢？flag为/flag文件内容的md5值
 >
@@ -22,7 +22,7 @@
 
 
 
-#### gob
+#### gob（200）
 
 > php是世界上最好的语言
 >
@@ -30,7 +30,7 @@
 
 
 
-#### Multiplayer Sports
+#### Multiplayer Sports（200）
 
 > 以前只知道小明喜欢CTF，没想到他最喜欢的是多人运动。
 >
@@ -38,9 +38,11 @@
 
 
 
-#### 布吉岛
+#### 布吉岛（200）
 
 > 作为布吉岛公司的安全人员，你能测试出网站的漏洞吗？ (话说，这题为啥要给俩端口呢？） flag为/flag文件内容的md5值
+>
+> hint1：反射！
 >
 > 183.129.189.60:10049,10050
 
@@ -48,7 +50,7 @@
 
 
 
-#### ezupload
+#### ezupload（300）
 
 > 看啥，再看就把你mikumiku掉！
 >
@@ -56,9 +58,33 @@
 
 
 
+#### 老开发（200）
+
+> 哈哈，我学会使用orm啦！$flag=md5(strtoupper("flag{xxx}"));
+>
+> 183.129.189.60:10000
+
+
+
+#### notes（300）
+
+> 【请务必仔细阅读题目描述】内网信息：题目运行在172.26.176.1:80，管理员在172.26.176.2 
+>
+> tips:
+>
+> ①不排除因用户过多而出现的意外情况，建议如果本地打通而远程打不到的话多提交几次；
+>
+> ②存在浏览器差异，多次远程不通，请更换payload；
+>
+> ③请提交BJD{}大括号内的哈希值。
+>
+> 183.129.189.60:10048
+
+
+
 ### PWN
 
-#### TaQiniOJ-0
+#### TaQiniOJ-0（100）
 
 > 欢迎来到TaQini的C语言新手训练营
 >
@@ -66,7 +92,7 @@
 
 
 
-#### Memory Monster I
+#### Memory Monster I（100）
 
 > Memory Monster is eating your memory!
 >
@@ -76,7 +102,7 @@
 
 
 
-#### Memory Monster II
+#### Memory Monster II（150）
 
 > Memory Monster is eating your memory!
 >
@@ -86,7 +112,7 @@
 
 
 
-#### happyending
+#### happyending（300）
 
 > 作为系列的终结,菜单题,久违了
 >
@@ -96,7 +122,7 @@
 
 
 
-#### Secret 2
+#### Secret 2（200）
 
 > tooooooo many secrets! 
 >
@@ -106,7 +132,9 @@
 >
 > 备用附件链接: https://pan.baidu.com/s/1r2p55XRFT3kQnpZg6iCaYQ 提取码: jicg
 >
-> toooooooo many secret! (✿･ω･)/✉ hint① 关注一下读随机数的函数 (//∇//)
+> toooooooo many secret! (✿･ω･)/✉ 
+>
+> hint① 关注一下读随机数的函数 (//∇//)
 
 附加下载：secret2.zip
 
@@ -114,7 +142,7 @@
 
 
 
-#### easybabystack
+#### easybabystack（250）
 
 > so easy. 
 >
@@ -130,9 +158,27 @@
 
 
 
+#### TaQiniOJ-1（250）
+
+> 欢迎来到TaQini的C语言魔鬼训练营
+>
+> 183.129.189.60:10002,10003,10004,10005,10006,10007
+
+
+
+#### Memory Monster III（300）
+
+> Memory Monster is eating your memory!
+>
+> 183.129.189.60:10008,10015,10016,10017,10018,10019
+
+附件下载：2005205ec4f1a421adc.zip
+
+
+
 ### REVERSE
 
-#### ViQinere
+#### ViQinere（100）
 
 > do you know ViQinère cipher? （请提交flag的md5值）
 >
@@ -142,17 +188,21 @@
 
 
 
-#### BScript
+#### BScript（150）
 
 > A Easy PE And A Easy Script 提交32位小写md5(flag)
 >
 > hint1：这是一个正常的可运行的easy的PE
+>
+> hint2：情况不止一种！多看几个程序找找规律 
+>
+> hint3：遇到瓶颈时可以想想：初始化后的全局变量真的一定会在data段上吗
 
 附加下载：2005205ec4f1a7c9c1e.zip
 
 
 
-#### MiscVm
+#### MiscVm（150）
 
 > 人生苦短，我用python
 
@@ -160,7 +210,7 @@
 
 
 
-#### log1cal
+#### log1cal（200）
 
 > 小小的与或非，大大的可能性。注意：得到的flag请进行小写32位MD5哈希后提交
 >
@@ -172,7 +222,7 @@
 
 
 
-#### blink
+#### blink（100）
 
 > 一闪一闪亮晶晶~(请将flag经过md5后提交)
 >
@@ -184,15 +234,53 @@
 
 
 
+#### Py2（200）
+
+> 出题人是懒狗，并没有写描述
+
+附加下载：2005205ec4f1abbe731.zip
+
+
+
 ### MISC
 
-#### Questionnaire
+#### 2020年DASCTF五月线上赛问卷调查（50）
+
+> 依旧是熟悉的赛题问卷调查哟~问卷地址：https://jinshuju.net/f/D8Lwig 提交 flag{} 括号中的内容！！！
+
+提交后给flag
+
+```
+flag{c2979c71244dec2befc6e369941c6546}
+```
+
+
+
+#### Questionnaire（100）
 
 > 叮~您有一份调查问卷~请查收~ https://forms.gle/Vmzt99LazrtXsRLM9
 
+查看网页源码
+
+```
+["Beijing Institute of Technology|BIT"]
+["Haolinju|haolinju"]
+["Daoxiangcun|daoxiangcun"]
+["Jingweizhai|jingweizhai"]
+["Jingshan|jingshan"]
+["Chaoyang|chaoyang"]
+["Hefangkou|hefangkou"]
+```
+
+输入信息到表单时会提示对应的错误提示（hex值），hex值按顺序拼起来得到flag
+
+```
+d41d8cd98f00b204e9800998ecf8427e
+```
 
 
-#### babyweb
+
+#### babyweb（150）
 
 > 请提交flag的md5值
 >
@@ -200,25 +288,61 @@
 
 附加下载：flag.zip
 
+`Pass‏‏‍‏‌‏‍‏‏‍‌‏‎‏‏‌‏‏‎‌‏‏‎‏‏‏‏‎‏‍‏‍‏‎‏‍‎‏‏‏‎‌‏‌‏‍‏‏‎‏‌‏‍‏‎‎‏‌‏‎‏‌‎‏‎‏‌‎‏‌word_is_here`
+
+网页中“Password_is_here”中间包含不可见字符，全部复制后url编码（放到url参数中就行）
+
+`Pass%E2%80%8F%E2%80%8F‍%E2%80%8F‌%E2%80%8F‍%E2%80%8F%E2%80%8F‍‌%E2%80%8F%E2%80%8E%E2%80%8F%E2%80%8F‌%E2%80%8F%E2%80%8F%E2%80%8E‌%E2%80%8F%E2%80%8F%E2%80%8E%E2%80%8F%E2%80%8F%E2%80%8F%E2%80%8F%E2%80%8E%E2%80%8F‍%E2%80%8F‍%E2%80%8F%E2%80%8E%E2%80%8F‍%E2%80%8E%E2%80%8F%E2%80%8F%E2%80%8F%E2%80%8E‌%E2%80%8F‌%E2%80%8F‍%E2%80%8F%E2%80%8F%E2%80%8E%E2%80%8F‌%E2%80%8F‍%E2%80%8F%E2%80%8E%E2%80%8E%E2%80%8F‌%E2%80%8F%E2%80%8E%E2%80%8F‌%E2%80%8E%E2%80%8F%E2%80%8E%E2%80%8F‌%E2%80%8E%E2%80%8F‌word_is_here`
+
+去掉首尾，如下规则替换全部，得到长度为196的5进制字符串
+
+```
+%E2%80%8B	0
+%E2%80%8C	1
+%E2%80%8D	2
+%E2%80%8E	3
+%E2%80%8F	4
+
+0000442000040100004240000421000043400004100000400000043100004040000344000040400003420000424000034200003440000431000040100004240000430000041000004200000433000041000004300000410000034300004130000401
+```
+
+每7位转10进制，在转字符得到解压密码：zerowidthcharactersinvisible
+
+解压后图片文件需要反转一下hex，得到图形编码的flag
+
+[解码1](https://www.dcode.fr/chiffre-arthur-minimoys)，[解码2](https://www.dcode.fr/alphabet-galactique-standard)，[解码3](https://www.dcode.fr/dancing-men-cipher)，[解码4](https://www.dcode.fr/pokemon-zarbi-alphabet)，得到flag
+
+```
+BJD{UVWHZAITWAU}
+```
 
 
-#### /bin/cat 2
+
+#### /bin/cat 2（150）
 
 > [CAUTION] cats as numerous as stars are coming... 解出的答案经md5后提交~
 
 附加下载：2005205ec4f1a07a3e9.zip
 
+```
+m1ao~miao~mi@o~Mia0~m!aO~m1a0~~~
+```
 
 
-#### testyournc
+
+#### testyournc（200）
 
 > Test your nc
+>
+> hint1: /f1a9.bak 你看到了嘛? 
+>
+> hint2: 用df命令看看硬盘总共多大，再看看flag多大。
 >
 > 183.129.189.60:10118,10119,10120,10121,10122,10123
 
 
 
-#### manual
+#### manual（400）
 
 > 请使用ssh连接靶机（用户名为ctf，密码详见欢迎信息）
 >
@@ -228,21 +352,45 @@
 >
 > hint0: 试试linux的man命令，找找不同
 >
+> hint1: 本题无需提权,请仔细看看根目录下的文件 
+>
+> hint2: 据说会ps的师傅都做出来了
+>
 > 183.129.189.60:10125,10126,10127,10128,10129,10130
+
+
+
+#### RainbowTable（200）
+
+> 快来投入到伟大的彩虹表建设中来吧！flag为获得的flag的md5值 hint1：好像下溢出没用？那还有什么洞嘛！
+>
+> 183.129.189.60:10027,10031,10032,10033,10034,10035
+
+
+
+#### PY me（300）
+
+> 请提交md5("BJD{xxxx}")； 使用nc连接； 尽量用后面的端口，10020端口不太稳定
+>
+> 183.129.189.60:10020,10021,10022,10023,10024,10026
 
 
 
 ### CRYPTO
 
-#### bbcrypto
+#### bbcrypto（100）
 
 > its so simple
 
 附加下载：2005205ec4f19d70080.zip
 
+```
+flag{ad7d973ffdd285b476a1a727b3a8fbc4}
+```
 
 
-#### Encrypt_Img
+
+#### Encrypt_Img（200）
 
 > Try to encrypt a picture with RC4
 
@@ -250,7 +398,7 @@
 
 
 
-#### easyLCG
+#### easyLCG（100）
 
 > easy LCG
 
@@ -258,8 +406,18 @@
 
 
 
-#### knapsack
+#### knapsack（200）
 
 > easy knapsack
 
 附加下载：2005205ec4f19c904a2.zip
+
+
+
+#### Backpacker（300）
+
+> Only backpackers can get the flag
+>
+> 183.129.189.60:10036
+
+附加下载：2004225e9ff0cd1c4ea.zip
