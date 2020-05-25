@@ -430,7 +430,7 @@ state2 = 4249
 for k in range(2**16):
     # 使用state1逆运算，得到计算state2用的seed值
     seed = (state1 << 16) + k
-	if next(seed) == state2:
+    if next(seed) == state2:
         # k能通过判断时，上面的seed也就可能是正确的
         # seed = (a*seed+b) % m，在已知a、b、m和结果的seed值时，可以求模逆得到最初的随机数种子
         print(seed,gp.invert(a,m)*(seed-b)%m)
