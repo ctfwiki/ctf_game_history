@@ -441,7 +441,7 @@ flag{ad7d973ffdd285b476a1a727b3a8fbc4}
 class LCG是“线性同余随机数生成器”，在已知a、b、m和state1、state2的情况下可以逆推出每一步的随机数种子
 
 ```python
-import gmpy2 as gp
+import gmpy2
 
 def next(seed):
     seed = (a*seed+b) % m
@@ -462,7 +462,7 @@ for k in range(2**16):
     if next(seed) == state2:
         # k能通过判断时，上面的seed也就可能是正确的
         # seed = (a*seed+b) % m，在已知a、b、m和结果的seed值时，可以求模逆得到最初的随机数种子
-        print(seed,gp.invert(a,m)*(seed-b)%m)
+        print(seed,gmpy2.invert(a,m)*(seed-b)%m)
 '''
 1066209821 714405490
 1066229421 1925643473
@@ -473,7 +473,7 @@ for k in range(2**16):
 
 这时已经爆破出4个可能的class LCG最初的seed值：714405490、1925643473、887076929、2098314912
 
-理解求模逆的过程还可以参考[这里](https://blog.csdn.net/SSS_Benjamin/article/details/90345614)，其中的`ModReverse(a,n)`相当于上面计算过程中的`gp.invert(a,m)`
+理解求模逆的过程还可以参考[这里](https://blog.csdn.net/SSS_Benjamin/article/details/90345614)，其中的`ModReverse(a,n)`相当于上面计算过程中的`gmpy2.invert(a,m)`
 
 有了随机数种子，接下来就没有难度了，把seed代入LCG运行原题目代码，当DH.A, DH.B和题目给出的值相等时，这时的seed就是真正的seed，用DH.key异或密文就能得到明文flag了
 
@@ -489,8 +489,6 @@ for seed in [714405490,1925643473,887076929,2098314912]:
         print(long_to_bytes(Cipher ^ DH.key))
 # flag{4dfe14e0c6c21ffcf5a3b4f0ed1911f6}
 ```
-
-
 
 
 
