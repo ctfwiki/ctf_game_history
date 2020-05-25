@@ -404,6 +404,65 @@ flag{ad7d973ffdd285b476a1a727b3a8fbc4}
 
 附加下载：2005205ec4f19c2d6bb.zip
 
+其他writeup:
+
+- https://badmonkey.site/archives/2020-5-dasctf.html
+- https://lazzzaro.github.io/2020/05/24/match-DASCTF-May-%C3%97-BJDCTF-3rd-%E5%AE%89%E6%81%92%E4%BA%94%E6%9C%88%E8%B5%9B/#easyLCG
+
+class LCG是“线性同余随机数生成器”，在已知a、b、m和state1、state2的情况下可以逆推出每一步的随机数种子
+
+```python
+import gmpy2 as gp
+
+def next(seed):
+    seed = (a*seed+b) % m
+    return seed >> 16 # 位运算，丢弃了低位的16位2进制，丢弃的值设为k
+
+# state = seed >> 16
+# seed = (state << 16) + k
+
+a = 3844066521
+b = 3316005024
+m = 2249804527
+state1 = 16269
+state2 = 4249
+# state2的计算过程是可以正向爆破的，未知数只有一个k，爆破k，而k的范围是0~2**16，几乎瞬间完成
+for k in range(2**16):
+    # 使用state1逆运算，得到计算state2用的seed值
+    seed = (state1 << 16) + k
+	if next(seed) == state2:
+        # k能通过判断时，上面的seed也就可能是正确的
+        # seed = (a*seed+b) % m，在已知a、b、m和结果的seed值时，可以求模逆得到最初的随机数种子
+        print(seed,gp.invert(a,m)*(seed-b)%m)
+'''
+1066209821 714405490
+1066229421 1925643473
+1066249021 887076929
+1066268621 2098314912
+'''
+```
+
+这时已经爆破出4个可能的class LCG最初的seed值：714405490、1925643473、887076929、2098314912
+
+求模逆的过程可以参考[这里](https://blog.csdn.net/SSS_Benjamin/article/details/90345614)，其中的`ModReverse(a,n)`相当于上面计算过程中的`gp.invert(a,m)`
+
+有了随机数种子，接下来就没有难度了，把seed代入LCG运行原题目代码，当DH.A, DH.B和题目给出的值相等时，这时的seed就是真正的seed，用DH.key异或密文就能得到明文flag了
+
+```python
+from Crypto.Util.number import*
+
+A = 102248652770540219619953045171664636108622486775480799200725530949685509093530
+B = 74913924633988481450801262607456437193056607965094613549273335198280176291445
+Cipher = 13040004482819935755130996285494678592830702618071750116744173145400949521388647864913527703
+for seed in [714405490,1925643473,887076929,2098314912]:
+    DH = DH(seed)
+    if DH.A == A and DH.B == B:
+        print(long_to_bytes(Cipher ^ DH.key))
+# flag{4dfe14e0c6c21ffcf5a3b4f0ed1911f6}
+```
+
+
+
 
 
 #### knapsack（200）
