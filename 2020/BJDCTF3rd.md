@@ -444,7 +444,7 @@ for k in range(2**16):
 
 这时已经爆破出4个可能的class LCG最初的seed值：714405490、1925643473、887076929、2098314912
 
-求模逆的过程可以参考[这里](https://blog.csdn.net/SSS_Benjamin/article/details/90345614)，其中的`ModReverse(a,n)`相当于上面计算过程中的`gp.invert(a,m)`
+理解求模逆的过程还可以参考[这里](https://blog.csdn.net/SSS_Benjamin/article/details/90345614)，其中的`ModReverse(a,n)`相当于上面计算过程中的`gp.invert(a,m)`
 
 有了随机数种子，接下来就没有难度了，把seed代入LCG运行原题目代码，当DH.A, DH.B和题目给出的值相等时，这时的seed就是真正的seed，用DH.key异或密文就能得到明文flag了
 
