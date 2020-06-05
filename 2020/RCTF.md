@@ -1,3 +1,12 @@
+## 其他wp
+
+- [官方中文wp](https://blog.rois.io/2020/rctf-2020-official-writeup/)
+- [官方英文wp](https://blog.rois.io/en/2020/rctf-2020-official-writeup-2/)
+- [RCTF-WP-Nu1L.pdf](../writeup/RCTF-WP-Nu1L.pdf)
+- [RCTF 2020 Writeup by Venom](https://mp.weixin.qq.com/s/0J9Omna8tmKWP9s4iSg10w)
+- [RCTF2020 WriteUp By W&M](https://mp.weixin.qq.com/s?__biz=MzIxMDYyNTk3Nw==&mid=2247484825&idx=1&sn=ffbb16ee4a93cdc366d00bb4576ca7ee&chksm=9760f14fa0177859f5b78685917f3500fe9a2816d571b6a709c8f1814c811149a93d1edfe5da&mpshare=1&scene=23&srcid=&sharer_sharetime=1591114376650&sharer_shareid=591bd17d9ff0cfa0f0099bfe9c6009d5#rd)
+- [来自Timeline Sec CTF](https://mp.weixin.qq.com/s/3II5Etd2QpDqn5m0z7p88A)
+
 ## WEB
 
 ### swoole
