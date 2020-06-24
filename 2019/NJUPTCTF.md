@@ -1,6 +1,10 @@
 南京邮电大学CTF
 
-writeup：http://wiki.merak.codes/writeup/NJUPT-2019/
+> https://nctf.x1c.club/team
+>
+> 比赛时间：11月22日21:00-11月24日21:00
+>
+> writeup：http://wiki.merak.codes/writeup/NJUPT-2019/
 
 ### WEB
 #### 1.Fake XML cookbook
