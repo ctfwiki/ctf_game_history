@@ -2,7 +2,9 @@
 
 ## 比赛信息
 
-> 任务描述：2020年DASCTF五月线上赛
+> 任务描述：2020年DASCTF五月线上赛&&第三届BJDCTF
+>
+> 比赛链接：https://www.linkedbyx.com/taskinfo/1178/detail
 >
 > 进行时间：2020-5-22 11:00 -- 2020-5-23 23:00 晚上暂停
 >

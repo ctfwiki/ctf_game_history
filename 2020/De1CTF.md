@@ -1,3 +1,9 @@
+### Writeup
+
+[De1CTF Hard_Pentest1&2 Writeup By W&M](https://mp.weixin.qq.com/s/mWKuJeTizlgrKrw1IcVwiw)
+
+
+
 ### Web
 
 #### Animal Crossing
