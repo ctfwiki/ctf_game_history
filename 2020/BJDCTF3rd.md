@@ -11,6 +11,8 @@
 > 官方writeup收集：https://shimo.im/docs/DRgjXTH3cJjrHKcw
 >
 > [BJD 3nd & DASCTF 五月月赛wp](http://www.resery.top/2020/05/23/BJD%203nd%20&%20DASCTF%20%E4%BA%94%E6%9C%88%E6%9C%88%E8%B5%9Bwp/)
+>
+> [DASCTF x BJDCTF问题汇总](https://shimo.im/docs/ej5PaWAbTGgxTuYK)
 
 
 
