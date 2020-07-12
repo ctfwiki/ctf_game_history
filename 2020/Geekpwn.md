@@ -12,7 +12,7 @@
 
 ## MISC
 
-### welcome
+### welcome(83pt,143solved)
 
 > welcome
 
@@ -22,7 +22,7 @@
 
 ## PWN
 
-### BabyPwn
+### BabyPwn(325pt,28solved)
 
 > It is a simple club manage system, try to solve it.No one gadget.
 >
@@ -32,7 +32,7 @@
 
 
 
-### PaperPrinter
+### PaperPrinter(590pt,10solved)
 
 > Try to print a flag paper.No one gadget.
 >
@@ -42,7 +42,7 @@
 
 
 
-### EasyShell
+### EasyShell(481pt,15solved)
 
 > Send the different messages to echo.
 >
@@ -52,7 +52,7 @@
 
 
 
-### PlayTheNew
+### PlayTheNew(590pt,10solved)
 
 > I will show you a dance with the basketball.
 >
@@ -64,7 +64,7 @@
 
 ## G-ESCAPE
 
-### ChildShell
+### ChildShell(722pt,6solved)
 
 > Can you send more special messages?
 >
@@ -74,7 +74,7 @@
 
 
 
-### Vimu
+### Vimu(928pt,2solved)
 
 > Escapt it.
 >
@@ -88,7 +88,7 @@
 
 
 
-### EasyKernelVM
+### EasyKernelVM(1000pt,1solved)
 
 > Another Kernel Pwn.
 >
@@ -103,7 +103,7 @@
 
 
 
-### Kemu
+### Kemu(1000pt,0solved)
 
 > Escape it again, but not only in nvme device.
 >
@@ -120,7 +120,7 @@
 
 ## WEB
 
-### cosplay!
+### cosplay!(232pt,44solved)
 
 > Play with Tencent Cloud COS service.
 >
@@ -128,7 +128,7 @@
 
 
 
-### rtmpdump
+### rtmpdump(1000pt,1solved)
 
 > A tiny 0day for you.
 >
@@ -138,7 +138,7 @@
 
 
 
-### noXSS 2020
+### noXSS 2020(565pt,11solved)
 
 > Provided sources are exactly identical to the deployed version. 
 >
@@ -150,7 +150,7 @@
 
 
 
-### umsg
+### umsg(406pt,20solved)
 
 > Please submit your payload at http://umsg-bot.iffi.top:2333/
 >
@@ -160,7 +160,7 @@
 
 ## REVERSE
 
-### Androidcmd
+### Androidcmd(406pt,20solved)
 
 > Maybe you will get a flag.
 
@@ -168,7 +168,7 @@
 
 
 
-### babyre
+### babyre(406pt,20solved)
 
 > Just re it.
 
@@ -176,7 +176,7 @@
 
 
 
-### Easyydre
+### Easyydre(650pt,8solved)
 
 > Easy crypto.
 
