@@ -8,9 +8,11 @@
 
 文档中所有附件均为相对路径，具体文件下载请在下面分享的网盘中查找
 
-- 百度网盘：链接：https://pan.baidu.com/s/1oxokSnY9rVd5go0QkPpVIw 提取码：5ej0
-- 腾讯微云：链接：https://share.weiyun.com/5zyHn0l 密码：z6724j
-- 蓝奏云：https://t1m.lanzous.com/b0aesxbif 密码:8bri
+- 百度网盘：链接：`https://pan.baidu.com/s/1oxokSnY9rVd5go0QkPpVIw` 提取码：`5ej0`
+- 腾讯微云：链接：- 密码：-
+- 蓝奏云：`https://t1m.lanzous.com/b0aesxbif` 密码:`8bri`
+
+腾讯微云由于一个rsa相关附件被误判为违规，链接不可用，申诉成功后会及时补上
 
 ### 特殊说明
 
@@ -32,7 +34,7 @@
 
 由于蓝奏云限制单个文件最大为100M，经过测试连续上传大于50M单文件会有20%的文件上传失败，所以对于蓝奏网盘大于100M的附件进行了切割，切分成48M的单个文件。
 
-切分方式是直接截取连续的字节，切分和拼接工具在filesplit.py（python3环境），或可或自行按照编号顺序将文件的字节直接拼接。切分后的文件命名方式为origin_name_[1-n].zip。
+切分方式是直接截取连续的字节，切分和拼接工具在filesplit.py（python3环境），或可或自行按照编号顺序将文件的字节直接拼接。切分后的文件命名方式为`origin_name_[1-n].zip`。
 
 例如：
 

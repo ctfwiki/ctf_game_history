@@ -1,3 +1,17 @@
+## writeup
+
+#### 官方
+
+https://github.com/SycloverSecurity/SCTF2020
+
+/writeup/SCTF2020+官方Write-up.pdf
+
+#### 其他
+
+[星盟安全SCTF--WriteUp](https://mp.weixin.qq.com/s/au7wmC-JLapP5fxhen5qVw)
+
+
+
 ## WEB
 
 ### pysandbox
@@ -182,6 +196,8 @@ SCTF{welc0m3_t0_sctf2020_friends}
 > if somebody quit in an online game, the game will down,win to get the flag
 > China&&Oversea:
 > http://120.79.1.217:8877/
+
+游戏源码：https://github.com/mailgyc/doudizhu
 
 ```
 SCTF{Did-you-enj0y-1t?~~~~~~~~~!!~!!!~}
