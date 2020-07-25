@@ -10,6 +10,8 @@
 
 比赛类型：组队，人数不限
 
+writeup：/writeup/geekpwnctf-wp.pdf
+
 ## MISC
 
 ### welcome(83pt,143solved)

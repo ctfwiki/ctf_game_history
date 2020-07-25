@@ -9,10 +9,10 @@
 文档中所有附件均为相对路径，具体文件下载请在下面分享的网盘中查找
 
 - 百度网盘：链接：`https://pan.baidu.com/s/1oxokSnY9rVd5go0QkPpVIw` 提取码：`5ej0`
-- 腾讯微云：链接：- 密码：-
+- 腾讯微云：链接：`https://share.weiyun.com/5zyHn0l` 密码：`t7quhg`
 - 蓝奏云：`https://t1m.lanzous.com/b0aesxbif` 密码:`8bri`
 
-腾讯微云由于一个rsa相关附件被误判为违规，链接不可用，申诉成功后会及时补上
+蓝奏云不能分享文件夹，所以上面链接是包含所有单个比赛附件的分享链接的文本文件
 
 ### 特殊说明
 
