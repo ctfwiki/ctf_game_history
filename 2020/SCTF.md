@@ -12,6 +12,18 @@ https://github.com/SycloverSecurity/SCTF2020
 
 [SCTF2020 官方Write-up](https://mp.weixin.qq.com/s/nvSnGJ_GJ5LAY3t09KPXig)
 
+
+
+## 附件链接
+
+链接：https://pan.baidu.com/s/1ZXUR2Ta_M_8u91CPTdwJDQ 提取码：hdxw
+
+链接：https://share.weiyun.com/uBCuZyUR 密码：nhprm8
+
+外链:https://t1m.lanzous.com/b0aeztv9e 密码:hdxw
+
+
+
 ## WEB
 
 ### pysandbox

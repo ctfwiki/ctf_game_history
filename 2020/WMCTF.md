@@ -4,6 +4,18 @@
 
 > 比赛时间：2020-08-01 09:00~2020-08-03 09:00
 
+
+
+## 附件链接
+
+链接：https://pan.baidu.com/s/19rMlt_HcYy03rAOrR9Gwow 提取码：hdxw
+
+链接：https://share.weiyun.com/Sq8mNMvu 密码：wzfh5a
+
+外链:https://t1m.lanzous.com/b0af2nane 密码:hdxw
+
+
+
 ## CRYPTO
 
 ### piece_of_cake

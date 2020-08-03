@@ -1,4 +1,4 @@
-## **比赛信息**
+## 比赛信息
 
 > 竞赛时间：2019年8月17日09:00:00-2019年8月18日21:00:00
 >
@@ -6,9 +6,19 @@
 
 ## Writeup
 
-> 官方wp
->
-> https://www.xctf.org.cn/library/details/17e9b70557d94b168c3e5d1e7d4ce78f475de26d/
+[官方wp](https://www.xctf.org.cn/library/details/17e9b70557d94b168c3e5d1e7d4ce78f475de26d/)
+
+
+
+## 附件链接
+
+链接：https://pan.baidu.com/s/1c72PauQaSP-oV9hyDSvazA 提取码：hdxw
+
+链接：https://share.weiyun.com/a2EqbQPx 密码：64k1ud
+
+外链:https://t1m.lanzous.com/b0aet0n3a 密码:hdxw
+
+
 
 ## 题目信息
 

@@ -1,4 +1,4 @@
-**比赛信息**
+## 比赛信息
 
 > <b>比赛时间：</b>2019年10月19日09:00:00~2019年10月19日15:00:00
 >
@@ -11,6 +11,18 @@
 > <b>计分原则：</b>选择题100道共计400分，CTF夺旗共计1600分，总分前500名晋级复赛。
 
 
+
+## 附件链接
+
+链接：https://pan.baidu.com/s/1kSy1uHpXpe8BhNvIdgIrlQ 提取码：hdxw
+
+链接：https://share.weiyun.com/Ih6eWYzy 密码：f8lrtj
+
+外链:https://t1m.lanzous.com/b0aesxoni 密码:hdxw
+
+
+
+## 题目信息
 
 ### **第一题 签到题！**
 

@@ -8,7 +8,20 @@
 官方QQ群：915847196
 官方wp：[点击下载](../writeup/Geek_2019_WriteUp.pdf)
 
+
+
+## 附件链接
+
+链接：https://pan.baidu.com/s/1tWdYnhty3YiSdEzLVnbvFA 提取码：hdxw
+
+链接：https://share.weiyun.com/HgrptAyi 密码：i8i6ze
+
+外链:https://t1m.lanzous.com/b0aet0u2b 密码:hdxw
+
+
+
 ## WEB
+
 ### 1.打比赛前先撸一只猫！
 > 出题人：cl4y
 > 猫猫陪我打ctf！

@@ -1,10 +1,22 @@
-**比赛信息**
+## 比赛信息
 
 > 竞赛时间：2019年9月7日09:00:00-2019年9月8日21:00:00
 >
 > 参赛方式：组队
 
 
+
+## 附件链接
+
+链接：https://pan.baidu.com/s/12LFdJdhgPXM4WYA4hHM68g 提取码：hdxw
+
+链接：https://share.weiyun.com/KsEJraMV 密码：im2z8a
+
+外链:https://t1m.lanzous.com/b0aesztre 密码:hdxw
+
+
+
+## 题目信息
 
 ### CRYPTO
 #### iterenc

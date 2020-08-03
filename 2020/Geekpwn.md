@@ -12,6 +12,18 @@
 
 writeup：/writeup/geekpwnctf-wp.pdf
 
+
+
+## 附件链接
+
+链接：https://pan.baidu.com/s/1KYC6I0a62wqilbQb5PDGCw 提取码：hdxw
+
+链接：https://share.weiyun.com/hkDldTVp 密码：3h28a6
+
+外链:https://t1m.lanzous.com/b0af0k1jg 密码:hdxw
+
+
+
 ## MISC
 
 ### welcome(83pt,143solved)

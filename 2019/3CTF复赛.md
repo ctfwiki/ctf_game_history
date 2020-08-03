@@ -1,4 +1,4 @@
-**比赛信息**
+## 比赛信息
 
 >比赛时间：2019年11月02日09:00:00~2019年11月02日17:00:00
 >
@@ -16,7 +16,21 @@
 >
 >决赛地点：西安电子科技大学
 
-### **1.签到题！**
+
+
+## 附件链接
+
+链接：https://pan.baidu.com/s/1bagDdcbFMcjrhpM2VzCBfA 提取码：hdxw
+
+链接：https://share.weiyun.com/tEexLZQM 密码：85mm7s
+
+外链:https://t1m.lanzous.com/b0aeszf1e 密码:hdxw
+
+
+
+## 题目信息
+
+### 1.签到题！
 
 > 分值：100 分
 >

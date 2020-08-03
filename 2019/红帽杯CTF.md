@@ -1,4 +1,4 @@
-**比赛信息**
+## 比赛信息
 
 > 报名截止：11月7日24:00
 >
@@ -14,7 +14,19 @@
 
 
 
-### **MISC**
+## 附件链接
+
+链接：https://pan.baidu.com/s/1SSwfLORCzi-AzW1l5gfIgw 提取码：hdxw
+
+链接：https://share.weiyun.com/AYU0OqQ1 密码：4jt1ei
+
+外链:https://t1m.lanzous.com/b0aet05kj 密码:hdxw
+
+
+
+## 题目信息
+
+### MISC
 
 
 

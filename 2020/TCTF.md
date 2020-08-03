@@ -9,6 +9,16 @@
 IRC: #0ctf2020 on Freenode
 ```
 
+## 附件链接
+
+链接：https://pan.baidu.com/s/1OteehbsXRK4rN9Hke5Fmow 提取码：hdxw
+
+链接：https://share.weiyun.com/urWHBBmw 密码：frzm0k
+
+外链:https://t1m.lanzous.com/b0aez32xi 密码:hdxw
+
+
+
 ## REVERSE
 
 ### flash-1（27solved,297pt）

@@ -1,8 +1,20 @@
-### Writeup
+## Writeup
 
 [De1CTF Hard_Pentest1&2 Writeup By W&M](https://mp.weixin.qq.com/s/mWKuJeTizlgrKrw1IcVwiw)
 
 
+
+## 附件链接
+
+链接：https://pan.baidu.com/s/1_UUwqS8r3HAvsrXkuX5yoQ 提取码：hdxw
+
+链接：https://share.weiyun.com/TKUPO9Nr 密码：1g1lyi
+
+外链:https://t1m.lanzous.com/b0aetosfg 密码:hdxw
+
+
+
+## 题目信息
 
 ### Web
 
