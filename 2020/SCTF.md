@@ -10,7 +10,7 @@ https://github.com/SycloverSecurity/SCTF2020
 
 [星盟安全SCTF--WriteUp](https://mp.weixin.qq.com/s/au7wmC-JLapP5fxhen5qVw)
 
-
+[SCTF2020 官方Write-up](https://mp.weixin.qq.com/s/nvSnGJ_GJ5LAY3t09KPXig)
 
 ## WEB
 
