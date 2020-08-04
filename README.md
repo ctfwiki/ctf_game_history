@@ -1,4 +1,4 @@
-### WTF
+## WTF
 
 这是一个的**CTF历史比赛题目信息**的仓库。
 
@@ -12,13 +12,15 @@
 
 
 
-### 更新频率
+## 更新频率
 
 题目信息及附件会在**比赛结束后**尽快更新（我也不想电脑里总存着一堆附件）。
 
+如果发现网盘链接失效可以联系我补发。
 
 
-### 附件下载
+
+## 附件下载
 
 每场比赛附件的网盘链接，在对应赛题信息的顶部“附件链接”中。
 
@@ -31,7 +33,7 @@
 
 
 
-### 网盘说明
+## 网盘说明
 
 目前以下所有网盘的上传账号都没有开通会员，配置均为普通用户级别，受限较大
 
@@ -78,20 +80,20 @@ python3 filesplit.py -c /mnt/file.7z
 
 
 
-### 关于Writeup
+## 关于Writeup
 
 绝大部分引用网络连接，文档文件在writeup目录里，逐渐整理到单独项目中...
 
 
 
-### 打赏
+## 打赏
 
 如有疑问或提供相关资源请联系QQ909712710（备注来源：github-ctf_game_history）
 
 如果本仓库对您有帮助或者您愿意支持本仓库的更新，欢迎扫码捐助（捐后不退，谨慎操作）
 
 <p>
-<img src="./img/donate/wechatpay.png" width="300"  />
-<img src="./img/donate/alipay.jpg" width="300" />
+<img src="./img/donate/wechatpay.png" width="300" height="300"  />
+<img src="./img/donate/alipay.jpg" width="300" height="300" />
 </p>
 
