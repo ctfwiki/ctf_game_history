@@ -312,6 +312,12 @@ if(isset($_GET['file'])) {
 
 Apache Waf -> 防篡改 -> openrasp -> php7.0
 
+```
+WMCTF{Y0u_S33_Th15_H4mbu29er_15_0Kay_or_N0t}
+```
+
+writeup: https://www.zhaoj.in/read-6660.html
+
 
 
 ### SimpleAuth
