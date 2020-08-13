@@ -5,12 +5,14 @@
 > 比赛时间：11月22日21:00-11月24日21:00
 >
 > writeup：http://wiki.merak.codes/writeup/NJUPT-2019/
+>
+> [2019-NJUPT WP by NepNep.pdf](../writeup/2019-NJUPT WP by NepNep.pdf)
 
 
 
 ## 附件链接
 
-链接：https://pan.baidu.com/s/1aKGghiZUEHsm1UZSI02QbA 提取码：hdxw
+链接：https://pan.baidu.com/s/11s7opT-PB_UPQJeg6MBpRQ 提取码：hdxw
 
 链接：https://share.weiyun.com/2Wdgd2CU 密码：214tk7
 
@@ -460,7 +462,7 @@ NCTF{youaresosmartthatthisisjustapieceofcake}
 >
 > http://nctf2019.x1ct34m.com:60006/babyRSA.zip
 
-附件下载：babyRSA.zip
+附件下载：babyRSA.zip（yrs敏感词，百度网盘文件名为babyR5A.zip）
 
 
 
@@ -508,7 +510,7 @@ NCTF{youaresosmartthatthisisjustapieceofcake}
 >
 > http://nctf2019.x1ct34m.com:60006/easyRSA.zip
 
-附件下载：easyRSA.zip
+附件下载：easyRSA.zip（yrs敏感词，百度网盘文件名为easyR5A.zip）
 
 
 

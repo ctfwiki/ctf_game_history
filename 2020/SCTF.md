@@ -4,7 +4,7 @@
 
 https://github.com/SycloverSecurity/SCTF2020
 
-/writeup/SCTF2020+官方Write-up.pdf
+/writeup/2020-SCTF 官方Write-up.md
 
 #### 其他
 

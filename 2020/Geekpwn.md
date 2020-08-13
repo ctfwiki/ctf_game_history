@@ -10,7 +10,7 @@
 
 比赛类型：组队，人数不限
 
-writeup：/writeup/geekpwnctf-wp.pdf
+writeup：[2020-geekpwnctf-wp.pdf](../writeup/2020-geekpwnctf-wp.pdf)
 
 
 

@@ -10,7 +10,7 @@
 
 [2020-WMCTF writeup By Nu1L.pdf](../writeup/2020-WMCTF writeup By Nu1L.pdf)
 
-[WMCTF_2020官方WriteUp.pdf](../writeup/WMCTF_2020官方WriteUp.pdf)
+[2020-WMCTF_官方WriteUp.pdf](../writeup/2020-WMCTF_官方WriteUp.pdf)
 
 [WMCTF-WriteUp-ChaMd5安全团队](https://mp.weixin.qq.com/s/SddIi7Om8BACyo_X1Skdfg)
 

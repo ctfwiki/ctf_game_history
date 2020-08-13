@@ -2,7 +2,7 @@
 
 - [官方中文wp](https://blog.rois.io/2020/rctf-2020-official-writeup/)
 - [官方英文wp](https://blog.rois.io/en/2020/rctf-2020-official-writeup-2/)
-- [RCTF-WP-Nu1L.pdf](../writeup/RCTF-WP-Nu1L.pdf)
+- [2020-RCTF-WP-Nu1L.pdf](../writeup/2020-RCTF-WP-Nu1L.pdf)
 - [RCTF 2020 Writeup by Venom](https://mp.weixin.qq.com/s/0J9Omna8tmKWP9s4iSg10w)
 - [RCTF2020 WriteUp By W&M](https://mp.weixin.qq.com/s/ppTD4uLAxa5VcOgZD70ZWw)
 - [来自Timeline Sec CTF](https://mp.weixin.qq.com/s/3II5Etd2QpDqn5m0z7p88A)

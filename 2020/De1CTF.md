@@ -6,7 +6,7 @@
 
 ## 附件链接
 
-链接：https://pan.baidu.com/s/1_UUwqS8r3HAvsrXkuX5yoQ 提取码：hdxw
+链接：https://pan.baidu.com/s/1AidmVqJPd339ejtxZszt6w 提取码：hdxw
 
 链接：https://share.weiyun.com/TKUPO9Nr 密码：1g1lyi
 
@@ -211,7 +211,7 @@
 >
 > hint:Updated task.py, but does not affect to solve it 更新了task.py，但不影响做题
 
-附件下载：easyRSA.zip
+附件下载：easyRSA.zip（yrs命中百度网盘敏感词，文件名改为easyR5A.zip）
 
 
 
