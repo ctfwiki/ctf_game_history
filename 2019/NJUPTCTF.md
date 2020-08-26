@@ -38,6 +38,8 @@
 NCTF{W3lc0m3_T0_NCTF_9102}
 ```
 
+复现环境：`docker run -d --rm --name fxc -p 6666:80 docimg/ctf-2019-nctf-fxc `
+
 
 
 #### 2.True XML cookbook
@@ -49,6 +51,8 @@ NCTF{W3lc0m3_T0_NCTF_9102}
 > try to use XML to do more things
 >
 > http://nctf2019.x1ct34m.com:40003/
+
+复现环境：https://hub.docker.com/r/docimg/ctf-2019-nctf-txc
 
 
 

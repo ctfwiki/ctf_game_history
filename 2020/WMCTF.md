@@ -14,6 +14,8 @@
 
 [WMCTF-WriteUp-ChaMd5安全团队](https://mp.weixin.qq.com/s/SddIi7Om8BACyo_X1Skdfg)
 
+[2020 WMCTF Web Writeup-嘶吼](https://mp.weixin.qq.com/s/tgoOINKa0Lu2i_0-Bsq18A)
+
 
 
 ## 附件链接
