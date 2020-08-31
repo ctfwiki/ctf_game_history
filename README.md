@@ -12,7 +12,7 @@
 
 
 
-## 更新频率
+### 更新频率
 
 题目信息及附件会在**比赛结束后**尽快更新（我也不想电脑里总存着一堆附件）。
 
@@ -31,7 +31,17 @@
 <!-- 2. 蓝奏云分享不能套文件夹，分享的文件夹里的文件夹会不显示-->
 <!-- 3. 方便下载，快速定位题目附件-->
 
-## 环境复现
+#### Writeup
+
+比赛信息中包含部分wp相关网络连接。
+
+writeup文档文件网盘链接如下（内容相同，任选其一）：
+
+> 链接：https://pan.baidu.com/s/1GxQ7t7FoufCMzyhfV726Aw 提取码：hdxw
+> 链接：https://share.weiyun.com/LuJAO0cZ 密码：blyfoa
+> 外链:https://t1m.lanzous.com/b0af582sj 密码:hdxw
+
+#### 环境复现
 
 https://github.com/docimg/ctf_history_replay
 
@@ -89,13 +99,6 @@ python3 filesplit.py -c /mnt/file.7z
 ```
 
 为了防止切分成过多子文件，**大于400M的附件一般不会存到蓝奏云**。
-
-
-
-## 关于Writeup
-
-绝大部分引用网络连接，文档文件在writeup目录里，逐渐整理到单独项目中...
-
 
 
 ## 打赏

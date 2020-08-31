@@ -2,6 +2,8 @@
 
 [De1CTF Hard_Pentest1&2 Writeup By W&M](https://mp.weixin.qq.com/s/mWKuJeTizlgrKrw1IcVwiw)
 
+[2020-De1CTFWP-Nu1L.pdf](../writeup/2020-De1CTFWP-Nu1L.pdf)
+
 
 
 ## 附件链接

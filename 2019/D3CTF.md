@@ -7,7 +7,14 @@
 > 初赛平台：https://platform.d3ctf.io/#/user/login
 >
 > 部分题目源码仓库：https://github.com/D-3CTF/D3CTF-2019-Challenges
-> 官方WP已发布：https://www.anquanke.com/post/id/193939
+
+
+
+## Writeup
+
+官方WP已发布：https://www.anquanke.com/post/id/193939
+
+[2019-D3CTF_WP.pdf](../writeup/2019-D3CTF_WP.pdf)
 
 
 

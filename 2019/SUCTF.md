@@ -8,6 +8,8 @@
 
 [官方wp](https://www.xctf.org.cn/library/details/17e9b70557d94b168c3e5d1e7d4ce78f475de26d/)
 
+[2019-SUCTF-WP-Nu1L.pdf](../writeup/2019-SUCTF-WP-Nu1L.pdf)
+
 
 
 ## 附件链接

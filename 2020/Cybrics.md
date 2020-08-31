@@ -23,6 +23,12 @@
 
 
 
+### Writeup
+
+[2020-CyBRICS_writeup.pdf](../writeup/2020-CyBRICS_writeup.pdf)
+
+
+
 ## 附件链接
 
 链接：https://pan.baidu.com/s/1f9JuESAS3rys-PdlSNJIeA 提取码：hdxw
