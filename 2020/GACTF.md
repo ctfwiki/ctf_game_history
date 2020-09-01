@@ -61,6 +61,8 @@
 > Overseas:
 > http://149.28.31.156:12564
 
+c++沙箱，whitelist + blacklist
+
 #### easy_kernel(2solved,952pt)
 > hint1:
 > 放出一个带符号的文件供参考
@@ -433,7 +435,7 @@ import string
 app = Flask(__name__)
 
 
-white_list = string.ascii_letters + string.digits + "()_-{}.&[]=/"
+white_list = string.ascii_letters + string.digits + '()_-{}."[]=/'
 black_list = ["codecs", "system", "for", "if",
               "end", "os", "eval", "request", "write",
               "mro", "compile", "execfile", "exec",
@@ -487,6 +489,7 @@ if __name__ == '__main__':
 > 
 > China：124.71.191.175 80
 > Overseas: 202.182.118.236 80
+
 源码下载：www.zip
 
 ### Reverse
