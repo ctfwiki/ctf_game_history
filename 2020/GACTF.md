@@ -6,6 +6,24 @@
 
 ## Writeup
 
+[GACTF Writeup By星盟安全团队-官方wp](https://mp.weixin.qq.com/s/0cOsuIFJwHbHIYvluQq4WQ)
+
+[XCTF-GACTF 2020 Writeup-WEB](https://www.gem-love.com/ctf/2621.html)
+
+[GACTF Writeup By V&N（WEB部分）](https://mp.weixin.qq.com/s/H0-imfruCTIXtMG16a9CIA)
+
+[GACTF Writeup By V&N（RE和PWN部分）](https://mp.weixin.qq.com/s/64qd_Z0XYZeTv3TIgTVEbw)
+
+[GACTF Writeup By V&N（MISC部分）](https://mp.weixin.qq.com/s/TXXyzswABUv4cLDOw5SdIw)
+
+[GACTF Writeup By V&N（CRYPTO部分）](https://mp.weixin.qq.com/s/c4bK2R_n_r5q_7rSidEuTg)
+
+[GACTF2020 Minecraft Redstone Music WP](http://z.mofalongmao.xyz/wordpress/index.php/2020/08/31/gactf2020-minecraft-redstone-music-wp/)
+
+
+
+## 附加链接
+
 链接：https://pan.baidu.com/s/1ml1ZknT6Zdn3VLrLC_Tk6Q 提取码：hdxw
 
 链接：https://share.weiyun.com/HnuxFzfY 密码：scnal1
