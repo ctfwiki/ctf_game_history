@@ -105,7 +105,7 @@ python3 filesplit.py -c /mnt/file.7z
 
 ## 打赏
 
-如有疑问或提供相关资源请联系QQ909712710（备注来源：github-ctf_game_history）
+如有疑问或提供相关资源请联系QQ909712710（备注来源：github-ctf_game_history）或QQ群216210928
 
 如果本仓库对您有帮助或者您愿意支持本仓库的更新，欢迎扫码捐助（捐后不退，谨慎操作）
 

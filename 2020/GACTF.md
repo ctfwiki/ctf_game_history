@@ -8,6 +8,8 @@
 
 [GACTF Writeup By星盟安全团队-官方wp](https://mp.weixin.qq.com/s/0cOsuIFJwHbHIYvluQq4WQ)
 
+[GACTF-WriteUp-chamd5](https://mp.weixin.qq.com/s/uL2yEuSKJGNWGaNYsQIjsg)
+
 [XCTF-GACTF 2020 Writeup-WEB](https://www.gem-love.com/ctf/2621.html)
 
 [GACTF Writeup By V&N（WEB部分）](https://mp.weixin.qq.com/s/H0-imfruCTIXtMG16a9CIA)
@@ -486,11 +488,11 @@ def hello_world():
         return render_template_string("<h1>request.form[\"name\"]<h1>")
 
     if name == "":
-		return render_template_string("<h1>hello world!<h1>")
+        return render_template_string("<h1>hello world!<h1>")
 
-	check(name)
-	template = '<h1>hello {}!<h1>'.format(name)
-	res = render_template_string(template)
+    check(name)
+    template = '<h1>hello {}!<h1>'.format(name)
+    res = render_template_string(template)
     if "flag" in res:
         abort(500, "hacker")
     return res
