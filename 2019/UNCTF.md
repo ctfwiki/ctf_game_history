@@ -1,8 +1,11 @@
 ## 比赛信息
 
 > 比赛时间：2019-10-20 08:00 -- 2019-10-27 20:00
+>
 > 比赛平台：[X计划平台](https://www.linkedbyx.com/taskinfo/822/detail)
+>
 > 竞赛形式：个人赛
+>
 > 官方writeup：https://www.ctfwp.com/articals/2019unctf.html
 
 
@@ -176,12 +179,19 @@ Connection interruption...
 ### arbi(1000)
 
 > SimpleHTTPServe真好用 请在后面加上/login，防止血小板入侵。答案提交flag{}括号内的值。 
+>
 > Hint1: web根目录下开了一个SimpleHTTPServer服务，但是不能列目录； 
+>
 > Hint2: uri路由会检测用户名和请求的url参数是否匹配； 
+>
 > Hint3: express框架根目录会有什么一定存在的文件呢?; 
+>
 > Hint4: url中有什么字符可以截断呢?; 
+>
 > Hint5: bad jwt; 
+>
 > Hint6: JWT常见攻击手法; 
+>
 > 101.71.29.5:10001
 
 源码下载：VerYs3cretWwWb4ck4p33441122.zip
@@ -291,8 +301,11 @@ flag{b613e841e0822e2925376d5373cbfbc4}
 ### Happy_puzzle(800)
 
 > Happy_puzzle 签到人的又一力作 
+>
 > hint1: png吧 
+>
 > hint2：data不是图片，要拼图 
+>
 > hint3：idat数据块
 
 附件下载：1910245db140544338d.zip
@@ -431,13 +444,20 @@ UNCTF{W3_L0v3_Unctf}
 ### 无限迷宫(1200)
 
 > 啊哈，来走迷宫试试看啊，很简单的，哈哈哈哈哈哈。答案提交flag{}括号内的值。
+>
 > Hint1:图片大小 
+>
 > Hint2:上下左右，1234 
+>
 > Hint3:密码高达几百位，请勿爆破 
+>
 > Hint4:128层，停止手工尝试 
+>
 > Hint5:题目没有其他解法，和你心里想的其实是一样的 
+>
 > Hint6:重申停止手工尝试，迷宫不是给人走的 
-> 附件下载：/unctf2019/1910245db14051a7fd3.zip
+
+附件下载：1910245db14051a7fd3.zip
 
 ```
 flag{af810046166d7b8a9c87227fcf341290}

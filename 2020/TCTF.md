@@ -9,6 +9,14 @@
 IRC: #0ctf2020 on Freenode
 ```
 
+
+
+### writeup
+
+[新鲜出炉 | 2020 TCTF Online Web WriteUp](https://www.4hou.com/posts/p7BQ)
+
+
+
 ## 附件链接
 
 链接：https://pan.baidu.com/s/1OteehbsXRK4rN9Hke5Fmow 提取码：hdxw
