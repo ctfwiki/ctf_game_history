@@ -20,7 +20,15 @@
 
 ### writeup
 
-https://www.anquanke.com/post/id/216694
+[DDCTF2020官方Write Up——Web篇](https://mp.weixin.qq.com/s/bdY30Kol91rD0Y4i74PQ0A)
+
+[DDCTF2020官方Write Up——Reverse篇](https://mp.weixin.qq.com/s/qS9nknHxRLxriDq381ijPQ)
+
+[DDCTF2020官方Write Up——PWN篇](https://mp.weixin.qq.com/s/Q1l4oJe9IAEBbXOapg7nlw)
+
+[DDCTF2020官方Write Up——MISC 篇](https://mp.weixin.qq.com/s/1fcuk_yuthaRZnvghw1CqA)
+
+[DDCTF 2020 Writeup](https://www.anquanke.com/post/id/216694)
 
 
 
@@ -60,6 +68,8 @@ url str | client download link
 |                  |                |                      |                |                    |
 +------------------+                +----------------------+                +--------------------+
 ```
+
+client下载：client.zip
 
 
 
