@@ -28,6 +28,8 @@
 
 [DDCTF2020官方Write Up——MISC 篇](https://mp.weixin.qq.com/s/1fcuk_yuthaRZnvghw1CqA)
 
+[DDCTF-WriteUp-Venom](https://mp.weixin.qq.com/s/gtzWFiZprbRWFOGTxR47CQ)
+
 [DDCTF 2020 Writeup](https://www.anquanke.com/post/id/216694)
 
 
