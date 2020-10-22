@@ -22,6 +22,8 @@
 
 [GACTF2020 Minecraft Redstone Music WP](http://z.mofalongmao.xyz/wordpress/index.php/2020/08/31/gactf2020-minecraft-redstone-music-wp/)
 
+网盘文档（链接见README.md）：2020-GACTF-WriteUp By Nu1L.pdf
+
 
 
 ## 附加链接

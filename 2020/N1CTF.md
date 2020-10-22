@@ -10,6 +10,8 @@
 
 [N1CTF 2020 Crypto Write-Ups](https://rkm0959.tistory.com/167?s=09)
 
+网盘文档（链接见README.md）：2020-N1CTF-Writeup By Nu1L.pdf
+
 
 
 ### 附件链接
@@ -19,6 +21,8 @@
 链接：https://share.weiyun.com/G8wsGwez 密码：rdkzyp
 
 外链:https://t1m.lanzous.com/b0af8zb0f 密码:hdxw
+
+[官方题目源码](https://github.com/Nu1LCTF/n1ctf-2020)
 
 
 
