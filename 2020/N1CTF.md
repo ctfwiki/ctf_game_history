@@ -10,9 +10,11 @@
 
 [N1CTF 2020 Crypto Write-Ups](https://rkm0959.tistory.com/167?s=09)
 
-网盘文档（链接见README.md）：2020-N1CTF-Writeup By Nu1L.pdf
+网盘文档（链接见README.md）：
 
+2020-N1CTF-Writeup By Nu1L.pdf
 
+2020-N1CTF-WriteUp By Venom.pdf
 
 ### 附件链接
 
