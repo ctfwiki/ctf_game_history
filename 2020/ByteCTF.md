@@ -6,6 +6,20 @@
 
 
 
+### writeup
+
+[ByteCTF 2020 部分题目 官方Writeup](https://bytectf.feishu.cn/docs/doccnqzpGCWH1hkDf5ljGdjOJYg)
+
+[Bytectf2020 writeup by W&M](https://mp.weixin.qq.com/s/4OVC10crL1rBFrNf9wyUTg)
+
+网盘文档（链接见README.md）：
+
+2020-ByteCTF部分题目-官方Writeup.pdf
+
+2020-ByteCTF-WriteUp-byNu1L.pdf
+
+
+
 ### 附件链接
 
 链接：https://pan.baidu.com/s/1ix0PIVayXLZ__hq1zTxStw 提取码：hdxw
