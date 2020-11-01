@@ -18,6 +18,12 @@
 
 <br/>
 
+### writeup
+
+https://github.com/NeSE-Team/XNUCA2020Qualifier/
+
+<br/>
+
 ## 题目信息
 
 ### MISC

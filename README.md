@@ -10,7 +10,7 @@
 
 支持题目附件和部分题目源码下载，进行题目复现。只用于学习交流，请勿用作它途。如有侵权，请联系删除。
 
-
+<br/>
 
 ### 更新频率
 
@@ -18,7 +18,7 @@
 
 如果发现网盘链接失效可以联系我补发。
 
-
+<br/>
 
 ## 附件下载
 
@@ -43,13 +43,15 @@ writeup文档文件网盘链接如下（内容相同，任选其一）：
 > 
 > 外链:https://t1m.lanzous.com/b0af582sj 密码:hdxw
 
+<br/>
+
 ### 环境复现
 
 https://github.com/docimg/ctf_history_replay
 
 使用docker镜像，已有镜像可以直接获取运行，不定期偶尔更新
 
-
+<br/>
 
 ## 网盘说明
 
@@ -63,7 +65,7 @@ https://github.com/docimg/ctf_history_replay
 
 文件名包含敏感词会导致分享链接失效
 
-
+<br/>
 
 ### 腾讯微云（非会员上传限速，总容量较小）
 
@@ -71,7 +73,7 @@ https://github.com/docimg/ctf_history_replay
 
 分享文件**UNCTF/1910245db14014309ed.zip**显示违规，申诉失败，这个文件微云没存
 
-
+<br/>
 
 ### 蓝奏云（限制文件类型和单文件大小）
 
@@ -102,15 +104,13 @@ python3 filesplit.py -c /mnt/file.7z
 
 为了防止切分成过多子文件，**大于400M的附件一般不会存到蓝奏云**。
 
+<br/>
 
-## 打赏
+
+## 其他
 
 如有疑问或提供相关资源请联系QQ909712710（备注来源：github-ctf_game_history）或QQ群216210928
 
-如果本仓库对您有帮助或者您愿意支持本仓库的更新，欢迎扫码捐助（捐后不退，谨慎操作）
+~~如果本仓库对您有帮助或者您愿意支持本仓库的更新，欢迎扫码捐助（算了，反正也没人扫）~~
 
-<p>
-<img src="./img/donate/wechatpay.png" width="300" height="300"  />
-<img src="./img/donate/alipay.jpg" width="300" height="300" />
-</p>
 
