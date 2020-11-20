@@ -8,6 +8,18 @@
 
 <br/>
 
+### writeup
+
+[UNCTF2020 官方wp](https://www.ctfwp.com/%E5%AE%98%E6%96%B9%E8%B5%9B%E4%BA%8B%E9%A2%98/2020UNCTF)
+
+[UNCTF2020 Pwn Writeup](http://taqini.space/2020/11/15/unctf2020-wp/)
+
+[UNCTF2020](https://blog.csdn.net/l11III1111/article/details/109707403)
+
+[unctf2020 部分简单题题解](https://www.cnblogs.com/Jlay/archive/2020/11/14/unctf_2020.html)
+
+<br/>
+
 ### 附件链接
 
 链接：https://pan.baidu.com/s/1cIPonhL_u_YYhR_UJqKMEw 提取码：5555
