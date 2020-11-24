@@ -8,6 +8,12 @@
 
 <br/>
 
+### writeup
+
+[HECTF WP-齐鲁师院网络安全社团](https://mp.weixin.qq.com/s/SWjgzRRm8-RKCRRSrLYbRw)
+
+<br/>
+
 ### 附件链接
 
 链接：https://pan.baidu.com/s/1K8hc4ukjpomHjy90RqqzSA 提取码：5555

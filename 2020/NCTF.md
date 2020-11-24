@@ -8,6 +8,12 @@
 
 <br/>
 
+### writeup
+
+[NCTF 2020 Official Writeup](https://ctf.njupt.edu.cn/562.html)
+
+<br/>
+
 ### 附件链接
 
 链接：https://pan.baidu.com/s/1hjvmeck3pIMKJb9e_E8UmQ 提取码：5555
