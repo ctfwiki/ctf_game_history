@@ -12,6 +12,8 @@
 
 [HECTF WP-齐鲁师院网络安全社团](https://mp.weixin.qq.com/s/SWjgzRRm8-RKCRRSrLYbRw)
 
+[HECTF部分wp-AfterWave](https://mp.weixin.qq.com/s/l5aAIMF1aG-jKXpul9s9dQ)
+
 <br/>
 
 ### 附件链接
