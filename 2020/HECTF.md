@@ -10,6 +10,8 @@
 
 ### writeup
 
+[官方部分题目wp](https://github.com/HECTF/2020_Problem_WriteUP)
+
 [HECTF WP-齐鲁师院网络安全社团](https://mp.weixin.qq.com/s/SWjgzRRm8-RKCRRSrLYbRw)
 
 [HECTF部分wp-AfterWave](https://mp.weixin.qq.com/s/l5aAIMF1aG-jKXpul9s9dQ)
