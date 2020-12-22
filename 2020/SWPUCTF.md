@@ -10,6 +10,12 @@
 
 <br/>
 
+### writeup
+
+[SWPUCTF2020 官方WP](https://wllm1013.github.io/2020/12/09/SWPUCTF2020-%E5%AE%98%E6%96%B9WP/)
+
+<br/>
+
 ### 附件链接
 
 链接：https://pan.baidu.com/s/1_s7wU0A2zEfyvb1T5TsW3w 提取码：5555
