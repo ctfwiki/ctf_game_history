@@ -10,6 +10,12 @@
 
 <br/>
 
+## writeup
+
+[BJD4th联合魔法少女野队Writeup](http://snowywar.top/wordpress/index.php/2020/12/25/bjd4th-writeup/)
+
+<br/>
+
 ## 附件链接
 
 链接：https://pan.baidu.com/s/1Kvu5q-ASaz-7bL9HTndT8A 提取码：5555
