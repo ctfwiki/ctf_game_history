@@ -14,6 +14,8 @@
 
 [BJD4th联合魔法少女野队Writeup](http://snowywar.top/wordpress/index.php/2020/12/25/bjd4th-writeup/)
 
+[安恒12月月赛 X BJDCTF 4th WriteUp](https://l1near.top/index.php/2020/12/27/87.html)
+
 <br/>
 
 ## 附件链接
