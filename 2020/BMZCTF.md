@@ -8,6 +8,14 @@
 
 <br/>
 
+## writeup
+
+[第一届BMZCTF公开赛-MISC-Writeup](https://mochu.blog.csdn.net/article/details/111306837)
+
+[2020 BMZCTF Re&Pwn WriteUp](https://www.richar.top/2020/12/25/bmzctf-2020-wp/)
+
+<br/>
+
 ## 附件链接
 
 链接：https://pan.baidu.com/s/1lhm-E0WzPG5vS75e_jFqXA 提取码：5555
