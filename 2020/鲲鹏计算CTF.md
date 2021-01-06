@@ -8,6 +8,16 @@
 
 <br/>
 
+## writeup
+
+[XCTF高校网络安全专题挑战赛-鲲鹏计算专场 官方Writeup](https://www.xctf.org.cn/library/details/55599c9c17ea0e8ca0b094adbe075a03a7321599/)
+
+网盘文档：
+
+2020-华为CTF-2-WP-Nu1L.pdf
+
+<br/>
+
 ### 附件链接
 
 链接：https://pan.baidu.com/s/1zGwkcRkcfaXQi3fFr3OgkA 提取码：5555

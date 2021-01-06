@@ -14,7 +14,13 @@
 
 ### writeup
 
-网盘文档：2020-华为云专场-Writeup-Venom.pdf
+[XCTF华为云专题赛 官方Writeup](https://www.xctf.org.cn/library/details/b69108559ccd6ff0fa3ec79e3f2f198f121e90a8/)
+
+网盘文档：
+
+2020-华为云专场-Writeup-Venom.pdf
+
+2020-华为CTF-1-WP-Nu1L.pdf
 
 <br/>
 
@@ -25,6 +31,8 @@
 链接：https://share.weiyun.com/j4EYUOxv 密码：555555
 
 链接：https://t1m.lanzous.com/b0afeobvg 密码:5555
+
+[官方题目源码](https://github.com/huaweictf/xctf_huaweicloud-qualifier-2020)
 
 <br/>
 

@@ -8,6 +8,14 @@
 
 <br/>
 
+## writeup
+
+[XCTF高校网络安全专题挑战赛-HarmonyOS和HMS专场 官方Writeup](https://www.xctf.org.cn/library/details/5acdc1c31cf4935ac38fce445978888a5710cf11/)
+
+网盘文档：2020-华为CTF-3-WP-Nu1L.pdf
+
+<br/>
+
 ## 附件链接
 
 链接：https://pan.baidu.com/s/111tZL1l7al7GYXs-yj3emw 提取码：5555

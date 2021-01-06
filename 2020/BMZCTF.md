@@ -12,6 +12,8 @@
 
 [第一届BMZCTF公开赛-MISC-Writeup](https://mochu.blog.csdn.net/article/details/111306837)
 
+[第一届BMZCTF公开赛-WEB-Writeup](https://mochu.blog.csdn.net/article/details/111916620)
+
 [2020 BMZCTF Re&Pwn WriteUp](https://www.richar.top/2020/12/25/bmzctf-2020-wp/)
 
 <br/>
@@ -115,26 +117,7 @@ if(isset($_GET['ip'])){
 
 #### ezphp(2s,100p)
 
-```php
-<?php 
-highlight_file(__FILE__);
-$cmd=$_POST['a'];
-if(strlen($cmd) > 25){
-    die();
-}else{
-    eval($cmd);
-}
-```
-
-```txt
-PHP Version 7.3.24
-
-allow_url_fopen=On
-allow_url_include=Off
-disable_functions=pcntl_alarm,pcntl_fork,pcntl_waitpid,pcntl_wait,pcntl_wifexited,pcntl_wifstopped,pcntl_wifsignaled,pcntl_wifcontinued,pcntl_wexitstatus,pcntl_wtermsig,pcntl_wstopsig,pcntl_signal,pcntl_signal_get_handler,pcntl_signal_dispatch,pcntl_get_last_error,pcntl_strerror,pcntl_sigprocmask,pcntl_sigwaitinfo,pcntl_sigtimedwait,pcntl_exec,pcntl_getpriority,pcntl_setpriority,pcntl_async_signals,system,exec,shell_exec,popen,proc_open,passthru,symlink,link,syslog,imap_open,ld,dl,mail,gc_collect_cycles,getenv,unserialize,putenv,serialize,Imagick��
-```
-
-部分源码下载：ezphp.zip
+源码下载：ezphp.zip
 
 <br/>
 
@@ -219,6 +202,8 @@ disable_functions=pcntl_alarm,pcntl_fork,pcntl_waitpid,pcntl_wait,pcntl_wifexite
 ### 综合渗透
 
 #### BMZ_Market(6s,96p)
+
+源码下载：Market.zip
 
 <br/>
 
