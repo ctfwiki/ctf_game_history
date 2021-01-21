@@ -10,9 +10,13 @@
 
 ## Writeup
 
+[官方源码和wp](https://github.com/sixstars/starctf2021)
+
 [*CTF2021 Misc部分wp](http://www.ga1axy.top/index.php/archives/54/)
 
 [*CTF 2021 Web部分 Writeup](https://blog.frankli.site/2021/01/18/*CTF-2021-Web/)
+
+[*CTF 2021 WriteUp By 星盟ctf战队](https://mp.weixin.qq.com/s/a4QIX-AebwNN_BB9mM0Ocg)
 
 网盘文档：2021-六星CTF-WriteUp-Venom.pdf
 
