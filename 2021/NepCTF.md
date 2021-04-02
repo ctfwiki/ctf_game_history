@@ -8,6 +8,14 @@
 
 <br/>
 
+## writeup
+
+[NepCTF2021-Web部分(除画皮)](https://y4tacker.blog.csdn.net/article/details/115097864)
+
+网盘附件：2021-NepCTF-官方writeup.pdf
+
+<br/>
+
 ## 附件连接
 
 链接：https://pan.baidu.com/s/1OSQT6ExUoQTp6kWEmUtOfg 提取码：5555
@@ -51,6 +59,8 @@ $flag = 'NepCTF{n3pn3p_l1ttle_tr1ck_c0me_bAck}';
 
 > 简单的PHP序列化
 
+源码下载：梦里花开牡丹亭.zip
+
 <br/>
 
 #### bbxhh_revenge(35s,89p)
@@ -67,6 +77,8 @@ $flag = 'NepCTF{n3pn3p_l1ttle_tr1ck_c0me_bAck}';
 >
 > a few months later，faka2.0 is back full of anger。
 
+flag在`/zhangsan_secret.txt`
+
 附件下载：faka.zip
 
 <br/>
@@ -74,6 +86,8 @@ $flag = 'NepCTF{n3pn3p_l1ttle_tr1ck_c0me_bAck}';
 #### gamejs(6s,100p)
 
 > 好好玩游戏不香吗
+
+源码下载：gamejs.zip
 
 <br/>
 
