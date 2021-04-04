@@ -8,6 +8,20 @@
 
 <br/>
 
+## writeup
+
+[“红明谷”杯再创佳绩晋级线下及赛后wp-摘星实验室](https://mp.weixin.qq.com/s/OtLHgr7zA1T9QZKL8XdASA)
+
+[红明谷杯部分WEB write up](http://www.plasf.cn/articles/hongmingguctf.html)
+
+[红明谷 CTF2021 Web部分 WriteUp](https://www.zhaoj.in/read-6859.html)
+
+[红明谷&2021虎符线上WP-IDLab](https://mp.weixin.qq.com/s/6wbW1eP4tk9IJtB4Whrr4Q)
+
+网盘文档：2021-红明谷CTF-Writeup-Nu1L.pdf
+
+<br/>
+
 ## 附件链接
 
 链接：https://pan.baidu.com/s/1vKGx3eaRqmR1uzGIkUBaag 提取码：5555
