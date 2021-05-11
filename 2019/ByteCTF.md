@@ -4,7 +4,23 @@
 >
 > 参赛方式：组队
 
+<br/>
 
+## writeup
+
+[ByteCTF 2019 Writeup — W&M](https://xz.aliyun.com/t/6324)
+
+[ByteCTF 2019 Writeup - 天枢](https://xz.aliyun.com/t/6355)
+
+[ByteCTF 2019 线上赛 Writeup By ROIS](https://xz.aliyun.com/t/6305)
+
+[bytectf 2019 re 驱动逆向 DancingKeys WP](https://xz.aliyun.com/t/6338)
+
+[ByteCTF 2019部分WP-合天网安](https://zhuanlan.zhihu.com/p/82259189)
+
+[[原创] ByteCTF Pwn部分题解 ](https://bbs.pediy.com/thread-254367.htm)
+
+<br/>
 
 ## 附件链接
 
@@ -14,7 +30,7 @@
 
 外链:https://t1m.lanzous.com/b0aesztre 密码:hdxw
 
-
+<br/>
 
 ## 题目信息
 
@@ -26,13 +42,13 @@
 
 附件下载：e781a7e44a37497d87119e64c3b5aa7a.zip
 
-
+<br/>
 
 #### lrlr
 
 附件下载：207689abfdd54b5382ef06739ec1e318.zip
 
-
+<br/>
 
 #### tsf
 
@@ -40,7 +56,7 @@
 
 附件下载：a4e8f786045144a286eab07b4af4a135.zip
 
-
+<br/>
 
 #### xitapiga
 
@@ -50,7 +66,7 @@
 
 附件下载：55fccf8c01044e63b55055c6739853c7.zip
 
-
+<br/>
 
 
 ### REVERSE
@@ -61,7 +77,7 @@
 
 附件下载：fdbdaa3cfd2748908e85356541c2f080.zip
 
-
+<br/>
 
 #### easy_rust
 
@@ -70,13 +86,13 @@
 
 附件下载：0327c678f13a498881ff1ca51874e76e.zip
 
-
+<br/>
 
 #### NaughtyBoy
 
 附件下载：4e38da65cd76489ba0c6885f2d68af85.zip
 
-
+<br/>
 
 #### s390
 
@@ -84,13 +100,13 @@
 
 附件下载：8c71fa2d19224fc1b14b3f66dda61398.zip
 
-
+<br/>
 
 #### 驱动逆向
 
 附件下载：aee527b33ed645499a26d8c23ef28d7d.zip
 
-
+<br/>
 
 ### MISC
 
@@ -100,7 +116,7 @@
 bytectf{Hello Bytectf}
 ```
 
-
+<br/>
 
 #### bet
 
@@ -108,13 +124,13 @@ bytectf{Hello Bytectf}
 
 附件下载：e168cbaec53b4c2ba32bd0f2f8c29a29.zip
 
-
+<br/>
 
 #### jigsaw
 
 附件下载：d9710b4ddcbf457cb716ee5423c7f32e.zip
 
-
+<br/>
 
 #### hf_
 
@@ -122,7 +138,7 @@ bytectf{Hello Bytectf}
 
 附件下载：336d1e2929b747e5b01e4205917099e1.zip
 
-
+<br/>
 
 #### ddd
 
@@ -132,7 +148,7 @@ bytectf{Hello Bytectf}
 
 (备份文件缺失)
 
-
+<br/>
 
 #### betgame
 
@@ -142,7 +158,7 @@ bytectf{Hello Bytectf}
 bytectf{bet_4_f4n_3828fhh}
 ```
 
-
+<br/>
 
 ### PWN
 
@@ -152,7 +168,7 @@ bytectf{bet_4_f4n_3828fhh}
 
 附件下载：da140ed02985415f8cc3c03a2d8376d9.zip
 
-
+<br/>
 
 #### mulnote
 
@@ -160,7 +176,7 @@ bytectf{bet_4_f4n_3828fhh}
 
 附件下载：16165d2e0b564bb09e95e4003bfb4e99.zip
 
-
+<br/>
 
 #### vip
 
@@ -168,7 +184,7 @@ bytectf{bet_4_f4n_3828fhh}
 
 附件下载：2808448f52cd43e3871142106830da82.zip
 
-
+<br/>
 
 #### mheap
 
@@ -176,7 +192,7 @@ bytectf{bet_4_f4n_3828fhh}
 
 附件下载：2c5dfc52b4f044bba044d072bfb10a5c.zip
 
-
+<br/>
 
 #### notefive
 
@@ -184,7 +200,7 @@ bytectf{bet_4_f4n_3828fhh}
 
 附件下载：56bcec9787b943fdb9e5285a3b165763.zip
 
-
+<br/>
 
 #### childjs
 
@@ -192,7 +208,7 @@ bytectf{bet_4_f4n_3828fhh}
 
 附件下载：bfa4f9a775114bd294d2d94fc327c18b.zip
 
-
+<br/>
 
 ### WEB
 
@@ -200,13 +216,13 @@ bytectf{bet_4_f4n_3828fhh}
 
 > http://112.126.96.50:9999
 
-
+<br/>
 
 #### boring_code
 
 > http://112.125.25.2:9999
 
-
+<br/>
 
 #### EzCMS
 
@@ -216,14 +232,14 @@ bytectf{bet_4_f4n_3828fhh}
 bytectf{4338afbd-d09b-11e9-96cf-88e9fe533d19}
 ```
 
-
+<br/>
 
 #### babyblog
 
 > http://112.126.101.16:9999
 > tips: 赛题新增节点 http://112.125.24.134:9999
 
-
+<br/>
 
 #### icloudmusic
 
@@ -237,7 +253,7 @@ bytectf{4338afbd-d09b-11e9-96cf-88e9fe533d19}
 
 (备份文件缺失)
 
-
+<br/>
 
 #### Dot_server_prove
 
@@ -246,3 +262,4 @@ bytectf{4338afbd-d09b-11e9-96cf-88e9fe533d19}
 > tips2: http://112.125.27.207:9999/ 再次新增赛题节点，之前连不上的请访问这个地址
 > tips3: 1.配hosts 2. UA
 > tips4: 管理员会定时查看访问的记录以做数据统计
+

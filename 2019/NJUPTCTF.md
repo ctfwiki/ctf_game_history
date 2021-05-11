@@ -4,11 +4,22 @@
 >
 > 比赛时间：11月22日21:00-11月24日21:00
 >
-> writeup：http://wiki.merak.codes/writeup/NJUPT-2019/
->
-> [2019-NJUPT WP by NepNep.pdf](../writeup/2019-NJUPT WP by NepNep.pdf)
 
+<br/>
 
+## writeup
+
+[NCTF 2019 Official Writeup](https://ctf.njupt.edu.cn/298.html)
+
+[NJUPT CTF 天璇Writeup](https://xz.aliyun.com/t/6876)
+
+[[原创]南邮ctf逆向你大概需要一个优秀的mac](https://bbs.pediy.com/thread-249509.htm)
+
+[网页挂了](http://wiki.merak.codes/writeup/NJUPT-2019/)
+
+网盘文档：[2019-NJUPT WP by NepNep.pdf](../writeup/2019-NJUPT WP by NepNep.pdf)
+
+<br/>
 
 ## 附件链接
 
@@ -16,9 +27,9 @@
 
 链接：https://share.weiyun.com/suSynABh 密码：8j84yf
 
-外链:https://t1m.lanzous.com/b0aetdjxe 密码:hdxw
+链接：https://t1m.lanzous.com/b0aetdjxe 密码:hdxw
 
-
+<br/>
 
 ## 题目信息
 
@@ -40,7 +51,7 @@ NCTF{W3lc0m3_T0_NCTF_9102}
 
 复现环境：`docker run -d --rm --name fxc -p 6666:80 docimg/ctf-2019-nctf-fxc `
 
-
+<br/>
 
 #### 2.True XML cookbook
 
@@ -54,7 +65,7 @@ NCTF{W3lc0m3_T0_NCTF_9102}
 
 复现环境：https://hub.docker.com/r/docimg/ctf-2019-nctf-txc
 
-
+<br/>
 
 #### 3.SQLi
 
@@ -66,7 +77,7 @@ NCTF{W3lc0m3_T0_NCTF_9102}
 >
 > http://nctf2019.x1ct34m.com:40005/
 
-
+<br/>
 
 #### 4.phar matches everything
 
@@ -80,7 +91,7 @@ NCTF{W3lc0m3_T0_NCTF_9102}
 >
 > http://nctf2019.x1ct34m.com:40004/
 
-
+<br/>
 
 
 #### 5.easyphp
@@ -92,7 +103,7 @@ NCTF{W3lc0m3_T0_NCTF_9102}
 >
 > http://nctf2019.x1ct34m.com:60005/
 
-
+<br/>
 
 #### 6.replace
 
@@ -108,7 +119,7 @@ NCTF{W3lc0m3_T0_NCTF_9102}
 NCTF{getshe11_has_different_methods}
 ```
 
-
+<br/>
 
 #### 7.flask
 
@@ -119,7 +130,7 @@ NCTF{getshe11_has_different_methods}
 > Author QQ: 1528652674
 > http://nctf2019.x1ct34m.com:40007/
 
-
+<br/>
 
 #### 8.Upload your Shell
 
@@ -131,7 +142,7 @@ NCTF{getshe11_has_different_methods}
 >
 > http://nctf2019.x1ct34m.com:60002/
 
-
+<br/>
 
 #### 9.flask_website
 
@@ -142,7 +153,7 @@ NCTF{getshe11_has_different_methods}
 > flask is interesting :)
 > http://nctf2019.x1ct34m.com:60003/
 
-
+<br/>
 
 #### 10.simple_xss
 
@@ -153,7 +164,7 @@ NCTF{getshe11_has_different_methods}
 > 一个简陋的登录注册留言系统
 > http://nctf2019.x1ct34m.com:40001/
 
-
+<br/>
 
 #### 11.hacker_backdoor
 
@@ -165,7 +176,7 @@ NCTF{getshe11_has_different_methods}
 >
 > http://nctf2019.x1ct34m.com:60004/
 
-
+<br/>
 
 ### RE
 
@@ -183,7 +194,7 @@ NCTF{getshe11_has_different_methods}
 
 附件下载：tsb.zip
 
-
+<br/>
 
 #### 2.难看的代码
 
@@ -197,7 +208,7 @@ NCTF{getshe11_has_different_methods}
 
 附件下载：ugly.exe
 
-
+<br/>
 
 #### 3.签到题
 
@@ -212,7 +223,7 @@ NCTF{getshe11_has_different_methods}
 
 附件下载：qiandao.exe
 
-
+<br/>
 
 #### 4.DEBUG
 
@@ -234,7 +245,7 @@ NCTF{just_debug_it_2333}
 ```
 附件下载：debug.zip
 
-
+<br/>
 
 #### 5.Our 16bit Games
 
@@ -248,7 +259,7 @@ NCTF{just_debug_it_2333}
 
 附件下载：Our 16bit Games.zip
 
-
+<br/>
 
 #### 6.Easy Ternary
 
@@ -264,7 +275,7 @@ NCTF{just_debug_it_2333}
 
 附件下载：Easy Ternary.zip
 
-
+<br/>
 
 #### 7.你大概需要一个带bar的mac
 
@@ -280,7 +291,7 @@ NCTF{just_debug_it_2333}
 
 附件下载：touchbarGame.app.zip
 
-
+<br/>
 
 #### 8.math_easy
 
@@ -300,7 +311,7 @@ NCTF{just_debug_it_2333}
 
 附件下载：math_easy.zip
 
-
+<br/>
 
 ### PWN
 #### 1.hello_pwn
@@ -312,13 +323,12 @@ NCTF{just_debug_it_2333}
 > Do you know pwntools? 
 >
 > nc 139.129.76.65 50003
->
 
 ```
 NCTF{hell0__play}
 ```
 
-
+<br/>
 
 #### 2.pwn me 100 years!(Ⅰ)
 
@@ -334,7 +344,7 @@ NCTF{hell0__play}
 
 附件下载：pwn_me_66adf.rar
 
-
+<br/>
 
 #### 3.pwn me 100 years!(Ⅱ)
 
@@ -350,7 +360,7 @@ NCTF{hell0__play}
 
 附件下载：pwn_me_ddfce.rar
 
-
+<br/>
 
 #### 4.pwn me 100 years!(Ⅲ)
 
@@ -366,7 +376,7 @@ NCTF{hell0__play}
 
 附件下载：pwn_me_asdsd.rar
 
-
+<br/>
 
 #### 5.warmup
 
@@ -382,7 +392,7 @@ NCTF{hell0__play}
 
 附件下载：warm_up.rar
 
-
+<br/>
 
 #### 6.easy_rop
 
@@ -400,7 +410,7 @@ NCTF{hell0__play}
 
 附件下载：easy_rop.rar
 
-
+<br/>
 
 #### 7.easy_heap
 
@@ -418,7 +428,7 @@ NCTF{hell0__play}
 
 附件下载：easy_heap.rar
 
-
+<br/>
 
 ### CRYPTO
 
@@ -440,7 +450,7 @@ NCTF{youaresosmartthatthisisjustapieceofcake}
 
 附件下载：Keyboard.zip
 
-
+<br/>
 
 #### 2.Sore
 
@@ -454,7 +464,7 @@ NCTF{youaresosmartthatthisisjustapieceofcake}
 
 附件下载：Sore.zip
 
-
+<br/>
 
 #### 3.babyRSA
 
@@ -468,7 +478,7 @@ NCTF{youaresosmartthatthisisjustapieceofcake}
 
 附件下载：babyRSA.zip（yrs敏感词，百度网盘文件名为babyR5A.zip）
 
-
+<br/>
 
 #### 4.childRSA
 
@@ -482,7 +492,7 @@ NCTF{youaresosmartthatthisisjustapieceofcake}
 
 附件下载：childRSA.zip
 
-
+<br/>
 
 #### 5.Reverse
 
@@ -496,7 +506,7 @@ NCTF{youaresosmartthatthisisjustapieceofcake}
 
 附件下载：Reverse.zip
 
-
+<br/>
 
 #### 6.easyRSA
 
@@ -516,7 +526,7 @@ NCTF{youaresosmartthatthisisjustapieceofcake}
 
 附件下载：easyRSA.zip（yrs敏感词，百度网盘文件名为easyR5A.zip）
 
-
+<br/>
 
 #### 7.LCG
 
@@ -536,7 +546,7 @@ NCTF{youaresosmartthatthisisjustapieceofcake}
 
 附件下载：PoW.zip
 
-
+<br/>
 
 ### MISC
 
@@ -555,7 +565,7 @@ NCTF{m1sc_1s_very_funny!!!}
 ```
 附件下载：a_good_idea.rar
 
-
+<br/>
 
 #### 2.Become a Rockstar
 
@@ -572,7 +582,7 @@ NCTF{youarnicerockstar}
 ```
 附件下载：Become_a_Rockstar.zip
 
-
+<br/>
 
 #### 3.Bright Body I
 
@@ -585,7 +595,6 @@ NCTF{youarnicerockstar}
 > 文件链接:百度云: https://pan.baidu.com/s/1EFGfcqj7VFNfVhblzkjmJA  密码:q8ma
 >
 > Google Drive: https://drive.google.com/file/d/1f8BjdSi2iD2nTqYSHtZ8KRxSW6faSPgv/view
->
 
 \Bright Body I\Magic\Content\Paks\Magic-WindowsNoEditor.pak文件中直接搜“NCTF”得到flag
 ```
@@ -594,7 +603,7 @@ NCTF{R_U_4_D4rk5Ou1s_III_P14y3r}
 
 附件下载：Bright Body I.zip
 
-
+<br/>
 
 #### 4.有内鬼,终止交易
 
@@ -613,7 +622,7 @@ NCTF{R_U_4_D4rk5Ou1s_III_P14y3r}
 
 附件下载：chall.zip
 
-
+<br/>
 
 #### 5.小狗的秘密
 
@@ -627,7 +636,7 @@ NCTF{R_U_4_D4rk5Ou1s_III_P14y3r}
 
 附件下载：heiheihei.zip
 
-
+<br/>
 
 #### 6.键盘侠
 
@@ -645,7 +654,7 @@ NCTF{Ba3e85_issssss_so_xxxxx}
 
 附件下载：kkkeyboard.zip
 
-
+<br/>
 
 #### 7.What's this
 
@@ -663,7 +672,7 @@ NCTF{dbb2ef54afc2877ed9973780606a3c8b}
 
 附件下载：12f9db345b7dfa4e3bff3e9a21e3b361.zip
 
-
+<br/>
 
 #### 8.2077
 
@@ -683,7 +692,7 @@ NCTF{dbb2ef54afc2877ed9973780606a3c8b}
 
 wp附件下载：2077.zip
 
-
+<br/>
 
 #### 9.pip install
 
@@ -692,7 +701,6 @@ wp附件下载：2077.zip
 > Difficulty: easy
 >
 > run `pip install --user nctf-2019-installme` to get flag!
->
 
 ```
 NCTF{c4reful_ab0u7_ev1l_pip_p4ckage}
@@ -700,7 +708,7 @@ NCTF{c4reful_ab0u7_ev1l_pip_p4ckage}
 
 备份下载：nctf_2019_installme-0.2.tar.gz
 
-
+<br/>
 
 #### 10.NCTF2019问卷调查
 

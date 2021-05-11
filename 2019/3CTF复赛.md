@@ -10,13 +10,19 @@
 >
 >计分原则：总分前100名晋级决赛。
 >
->wp：https://www.jianshu.com/p/f5331080f780
->
 >决赛时间：11月28日-12月1日
 >
 >决赛地点：西安电子科技大学
 
+<br/>
 
+## writeup
+
+[2019 360杯网络安全职业技能大赛 复赛WriteUP](https://www.jianshu.com/p/f5331080f780)
+
+[[原创]3CTF部分题目WriteUp](https://bbs.pediy.com/thread-255566.htm)
+
+<br/>
 
 ## 附件链接
 
@@ -26,7 +32,7 @@
 
 外链:https://t1m.lanzous.com/b0aeszf1e 密码:hdxw
 
-
+<br/>
 
 ## 题目信息
 
@@ -48,6 +54,8 @@
 flag{Welcome-To_3Ctf}
 ```
 
+<br/>
+
 ### **2.写了一个网站，好像有漏洞？**
 
 > 分值：250 分
@@ -62,7 +70,7 @@ flag{Welcome-To_3Ctf}
 >
 > tips：hql
 
-
+<br/>
 
 ### **3.信息收集很重要！**
 
@@ -74,7 +82,7 @@ flag{Welcome-To_3Ctf}
 >
 > (1). flag格式为：{xxxxxx} (250 分)
 
-
+<br/>
 
 ### **4.提交个WP，怎么才能让我通过呢？**
 
@@ -92,7 +100,7 @@ flag{Welcome-To_3Ctf}
 >
 > tips：robots.txt
 
-
+<br/>
 
 ### **5.host:9000/helper.html的功能是将你上传的视频转为gif，你能找到服务器上的flag吗？**
 
@@ -114,7 +122,7 @@ flag{Welcome-To_3Ctf}
 >
 > tips：xxe
 
-
+<br/>
 
 ### **6.免费公共图床, 提供高速稳定的图片分享与云存储服务.全球CDN加速, 支持外链, 无限空间, 无限流量, 原图保存。**
 
@@ -128,7 +136,7 @@ flag{Welcome-To_3Ctf}
 >
 > tips：SQL注入
 
-
+<br/>
 
 ### **7.写了个PDF转换器，好像还没写完？**
 
@@ -142,7 +150,7 @@ flag{Welcome-To_3Ctf}
 >
 > tips：Unserialization
 
-
+<br/>
 
 ### **8.最近安全侠很无聊，心不在焉得把flag泄露了，你能找到flag吗？**
 
@@ -162,7 +170,7 @@ flag{Welcome-To_3Ctf}
 flag{just_do_it}
 ```
 
-
+<br/>
 
 ### **9.这是捕获的黑客攻击数据包！**
 
@@ -178,7 +186,7 @@ flag{just_do_it}
 
 附件下载：ok.zip
 
-
+<br/>
 
 ### 10.
 
@@ -219,7 +227,7 @@ F2 B5 0A A1 B3 51 FA A4 58 2A 8A B9 02 66 6D 72
 FLAG = ?
 ```
 
-
+<br/>
 
 ### **11.加了又解，解了又加！**
 
@@ -235,7 +243,7 @@ FLAG = ?
 
 附件下载：81ebff25.exe
 
-
+<br/>
 
 ### **12.I shall be as secret as the grave**
 
@@ -252,3 +260,4 @@ FLAG = ?
 
 
 附件下载：92226e82.zip
+
