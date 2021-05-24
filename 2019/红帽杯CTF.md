@@ -12,7 +12,15 @@
 >
 > https://www.ichunqiu.com/2019redhat/
 
+<br/>
 
+## writeup
+
+[Write Up | 第三届红帽杯网络安全攻防大赛官方WP来啦](https://mp.weixin.qq.com/s/MKaMMihP8gPSYKswAxjNqQ)
+
+[2019红帽杯 Writeup by X1cT34m](https://xz.aliyun.com/t/6746)
+
+<br/>
 
 ## 附件链接
 
@@ -20,27 +28,23 @@
 
 链接：https://share.weiyun.com/Seth8UQt 密码：6oapwg
 
-外链:https://t1m.lanzous.com/b0aet05kj 密码:hdxw
+链接：https://t1m.lanzous.com/b0aet05kj 密码:hdxw
 
-
+<br/>
 
 ## 题目信息
 
 ### MISC
 
-
-
 #### **1.签到**
 
 > https://www.wjx.top/jq/48618223.aspx
-
-
 
 ```
 flag{Red70_RedHat}
 ```
 
-
+<br/>
 
 #### **2.Advertising for Marriage**
 
@@ -50,11 +54,9 @@ flag{Red70_RedHat}
 >
 > 备用下载：https://share.weiyun.com/5bZukXX
 
-
-
 附件下载：Advertising for Marriage.zip
 
-
+<br/>
 
 #### **3.恶臭的数据包**
 
@@ -64,13 +66,13 @@ flag{Red70_RedHat}
 >
 > 备用下载：https://share.weiyun.com/5xOajkr
 
-
+附件下载：恶臭的数据包.7z
 
 ```
 flag{f14376d0-793e-4e20-9eab-af23f3fdc158}
 ```
 
-
+<br/>
 
 #### **4.玩具车**
 
@@ -80,15 +82,11 @@ flag{f14376d0-793e-4e20-9eab-af23f3fdc158}
 >
 > 备用下载：https://share.weiyun.com/5NjUHzk
 
-
-
 附件下载：0c3f996f71b3447c72fe90a4b92c61da-玩具车.zip
 
-
+<br/>
 
 ### **Crypto**
-
-
 
 #### **1.Related**
 
@@ -96,11 +94,9 @@ flag{f14376d0-793e-4e20-9eab-af23f3fdc158}
 >
 > 备用下载：https://share.weiyun.com/5OrLWfg
 
-
-
 附件下载：Related_11ffdbd25dbfb71276403349c4ae1863.zip
 
-
+<br/>
 
 #### **2.Broadcast**
 
@@ -112,11 +108,9 @@ flag{f14376d0-793e-4e20-9eab-af23f3fdc158}
 >
 > hint: 粗心的Alice
 
-
-
 附件下载：Broadcastc.zip
 
-
+<br/>
 
 #### **3.boom**
 
@@ -126,13 +120,10 @@ flag{f14376d0-793e-4e20-9eab-af23f3fdc158}
 >
 > 备用下载：https://share.weiyun.com/5Bl1NtT
 >
-> 
-
-
 
 附件下载：Boom_a64917620abd5a54597758710ee93cc5.zip
 
-
+<br/>
 
 #### **4.精明的Alice**
 
@@ -142,15 +133,11 @@ flag{f14376d0-793e-4e20-9eab-af23f3fdc158}
 >
 > 备用下载：https://share.weiyun.com/5y4RSPP
 
-
-
 附件下载：精明的Alice.7z
 
-
+<br/>
 
 ### **Pwn**
-
-
 
 #### **1.three**
 
@@ -160,11 +147,9 @@ flag{f14376d0-793e-4e20-9eab-af23f3fdc158}
 >
 > 备用下载：https://share.weiyun.com/5YLPW7H
 
-
-
 附件下载：three-middegree.zip
 
-
+<br/>
 
 #### **2.万花筒**
 
@@ -174,11 +159,9 @@ flag{f14376d0-793e-4e20-9eab-af23f3fdc158}
 >
 > 备用下载：https://share.weiyun.com/5GjAl82
 
-
-
 附件下载：万花筒.zip
 
-
+<br/>
 
 #### **3.Hello,firefox**
 
@@ -190,15 +173,11 @@ flag{f14376d0-793e-4e20-9eab-af23f3fdc158}
 >
 > 备用下载：https://share.weiyun.com/5WgYc7P
 
-
-
 附件下载：hello_firefox.tar.gz
 
-
+<br/>
 
 ### **Reverse**
-
-
 
 #### **1.xx**
 
@@ -208,11 +187,9 @@ flag{f14376d0-793e-4e20-9eab-af23f3fdc158}
 >
 > 备用下载：https://share.weiyun.com/5jtE4wF
 
-
-
 附件下载：xx.zip
 
-
+<br/>
 
 #### **2.easyRE**
 
@@ -222,11 +199,9 @@ flag{f14376d0-793e-4e20-9eab-af23f3fdc158}
 >
 > 备用下载：https://share.weiyun.com/5jdE6kt
 
-
-
 附件下载：easyRE.zip
 
-
+<br/>
 
 #### **3.calc**
 
@@ -236,11 +211,9 @@ flag{f14376d0-793e-4e20-9eab-af23f3fdc158}
 >
 > 备用下载：https://share.weiyun.com/5q2onVI
 
-
-
 附件下载：calc.zip
 
-
+<br/>
 
 #### **4.childRE**
 
@@ -250,11 +223,9 @@ flag{f14376d0-793e-4e20-9eab-af23f3fdc158}
 >
 > 备用下载：https://share.weiyun.com/5rFiqDg
 
-
-
 附件下载：childRE.zip
 
-
+<br/>
 
 #### **5.Snake**
 
@@ -264,15 +235,11 @@ flag{f14376d0-793e-4e20-9eab-af23f3fdc158}
 >
 > 备用下载：https://share.weiyun.com/5N7Ka2y
 
-
-
 附件下载：Snake.zip
 
-
+<br/>
 
 ### **Web**
-
-
 
 #### **1.bank_service**
 
@@ -288,7 +255,7 @@ flag{f14376d0-793e-4e20-9eab-af23f3fdc158}
 >
 > hint: Apache Solr DataImportHandler远程代码执行漏洞(CVE-2019-0193) ，需要构造回显。
 
-
+<br/>
 
 #### **2.Ticket_System**
 
@@ -300,13 +267,13 @@ flag{f14376d0-793e-4e20-9eab-af23f3fdc158}
 >
 > 备用链接2：http://47.105.58.70/
 
-
+<br/>
 
 #### **3.easyweb**
 
 > 简单的一个cms，试试看。
 
-
+<br/>
 
 #### **4.iCloudMusic**
 
@@ -319,8 +286,6 @@ flag{f14376d0-793e-4e20-9eab-af23f3fdc158}
 > 访问链接：http://47.105.72.231:9999/
 >
 > 备用链接：http://47.105.168.97:9999/
-
-
 
 附件下载：iCloudMusic附件.zip
 

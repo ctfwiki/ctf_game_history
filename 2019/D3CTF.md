@@ -26,7 +26,7 @@
 
 链接：https://share.weiyun.com/FVqjNtlB 密码：uj6rqi
 
-外链:https://t1m.lanzous.com/b0aeszung 密码:hdxw
+链接：https://t1m.lanzous.com/b0aeszung 密码:hdxw
 
 <br/>
 
@@ -175,7 +175,7 @@
 ### Ancient Game V2(702.6pt,6sloved)
 > The ancient game strikes back.
 
-附件下载：chall_46837d2ca1.html
+附件下载：chall_46837d2ca1.zip
 
 <br/>
 
@@ -239,7 +239,7 @@
 ### Bivariate(820.35pt,3sloved)
 > The Coppersmith method, proposed by Don Coppersmith in the Wild, is a method to find small integer zeroes of univariate or bivariate polynomials modulo a given integer. The method uses the Lenstra–Lenstra–Lovász lattice basis reduction algorithm (LLL) to find a polynomial that has the same zeroes as the target polynomial but smaller coefficients.
 
-附件下载：task_a9372a32cf.py
+附件下载：task_a9372a32cf.zip
 
 <br/>
 
