@@ -1,5 +1,3 @@
-安恒五月线上赛（DASCTF）&&第三届BJDCTF
-
 ## 比赛信息
 
 > 任务描述：2020年DASCTF五月线上赛&&第三届BJDCTF
@@ -8,13 +6,20 @@
 >
 > 进行时间：2020-5-22 11:00 -- 2020-5-23 23:00 晚上暂停
 >
-> 官方writeup收集：https://shimo.im/docs/DRgjXTH3cJjrHKcw
->
-> [BJD 3nd & DASCTF 五月月赛wp](http://www.resery.top/2020/05/23/BJD%203nd%20&%20DASCTF%20%E4%BA%94%E6%9C%88%E6%9C%88%E8%B5%9Bwp/)
->
-> [DASCTF x BJDCTF问题汇总](https://shimo.im/docs/ej5PaWAbTGgxTuYK)
 
+<br/>
 
+## writeup
+
+官方writeup收集：https://shimo.im/docs/DRgjXTH3cJjrHKcw
+
+[BJD 3nd & DASCTF 五月月赛wp](http://www.resery.top/2020/05/23/BJD%203nd%20&%20DASCTF%20%E4%BA%94%E6%9C%88%E6%9C%88%E8%B5%9Bwp/)
+
+[2020安恒五月赛crypto部分wp](https://badmonkey.site/archives/dasctf-2020-5)
+
+[DASCTF x BJDCTF问题汇总](https://shimo.im/docs/ej5PaWAbTGgxTuYK)
+
+<br/>
 
 ## 附件链接
 
@@ -24,7 +29,7 @@
 
 外链:https://t1m.lanzous.com/b0aevs94h 密码:hdxw
 
-
+<br/>
 
 ## 题目信息
 
@@ -60,7 +65,7 @@ playload = 'fflag=`cat /flag`;lll=${fflag#*s_great*%s};if [ ${#lll} -ge %d ];the
 BJD{make_iptables_great_again}
 ```
 
-
+<br/>
 
 #### gob（200）
 
@@ -68,7 +73,7 @@ BJD{make_iptables_great_again}
 >
 > 183.129.189.60:10063,10064,10065,10066,10067,10068
 
-
+<br/>
 
 #### Multiplayer Sports（200）
 
@@ -76,7 +81,7 @@ BJD{make_iptables_great_again}
 >
 > 183.129.189.60:10112,10113,10114,10115,10116,10117
 
-
+<br/>
 
 #### 布吉岛（200）
 
@@ -88,7 +93,7 @@ BJD{make_iptables_great_again}
 
 附加下载：2005205ec4f1ac3c59f.zip
 
-
+<br/>
 
 #### ezupload（300）
 
@@ -96,7 +101,7 @@ BJD{make_iptables_great_again}
 >
 > 183.129.189.60:10057,10058,10059,10060,10061,10062
 
-
+<br/>
 
 #### 老开发（200）
 
@@ -104,7 +109,7 @@ BJD{make_iptables_great_again}
 >
 > 183.129.189.60:10000
 
-
+<br/>
 
 #### notes（300）
 
@@ -120,7 +125,7 @@ BJD{make_iptables_great_again}
 >
 > 183.129.189.60:10048
 
-
+<br/>
 
 ### PWN
 
@@ -130,7 +135,7 @@ BJD{make_iptables_great_again}
 >
 > 183.129.189.60:10075,10076,10077,10078,10079,10080
 
-
+<br/>
 
 #### Memory Monster I（100）
 
@@ -140,7 +145,7 @@ BJD{make_iptables_great_again}
 
 附加下载：2005205ec4f1a2eeb94.zip
 
-
+<br/>
 
 #### Memory Monster II（150）
 
@@ -150,7 +155,7 @@ BJD{make_iptables_great_again}
 
 附加下载：2005205ec4f1a3ac91d.zip
 
-
+<br/>
 
 #### happyending（300）
 
@@ -160,7 +165,7 @@ BJD{make_iptables_great_again}
 
 附加下载：2005205ec4f1a1b49e0.zip
 
-
+<br/>
 
 #### Secret 2（200）
 
@@ -180,7 +185,7 @@ BJD{make_iptables_great_again}
 
 废弃附件：2005205ec4f1a58e1f6.zip
 
-
+<br/>
 
 #### easybabystack（250）
 
@@ -196,7 +201,7 @@ BJD{make_iptables_great_again}
 
 废弃附件：2005205ec4f1a2a0bb0.zip
 
-
+<br/>
 
 #### TaQiniOJ-1（250）
 
@@ -204,7 +209,7 @@ BJD{make_iptables_great_again}
 >
 > 183.129.189.60:10002,10003,10004,10005,10006,10007
 
-
+<br/>
 
 #### Memory Monster III（300）
 
@@ -214,7 +219,7 @@ BJD{make_iptables_great_again}
 
 附件下载：2005205ec4f1a421adc.zip
 
-
+<br/>
 
 ### REVERSE
 
@@ -226,7 +231,7 @@ BJD{make_iptables_great_again}
 
 附加下载：2005205ec4f1a6df1b8.zip
 
-
+<br/>
 
 #### BScript（150）
 
@@ -240,7 +245,7 @@ BJD{make_iptables_great_again}
 
 附加下载：2005205ec4f1a7c9c1e.zip
 
-
+<br/>
 
 #### MiscVm（150）
 
@@ -248,7 +253,7 @@ BJD{make_iptables_great_again}
 
 附加下载：2005205ec4f1ab0f5ec.zip
 
-
+<br/>
 
 #### log1cal（200）
 
@@ -260,7 +265,7 @@ BJD{make_iptables_great_again}
 
 附加下载：2005205ec4f1ab5bbcd.exe
 
-
+<br/>
 
 #### blink（100）
 
@@ -272,7 +277,7 @@ BJD{make_iptables_great_again}
 
 附加下载：2005205ec4de54d16a5.zip
 
-
+<br/>
 
 #### Py2（200）
 
@@ -280,7 +285,7 @@ BJD{make_iptables_great_again}
 
 附加下载：2005205ec4f1abbe731.zip
 
-
+<br/>
 
 ### MISC
 
@@ -294,7 +299,7 @@ BJD{make_iptables_great_again}
 flag{c2979c71244dec2befc6e369941c6546}
 ```
 
-
+<br/>
 
 #### Questionnaire（100）
 
@@ -318,7 +323,7 @@ flag{c2979c71244dec2befc6e369941c6546}
 d41d8cd98f00b204e9800998ecf8427e
 ```
 
-
+<br/>
 
 #### babyweb（150）
 
@@ -356,7 +361,7 @@ d41d8cd98f00b204e9800998ecf8427e
 BJD{UVWHZAITWAU}
 ```
 
-
+<br/>
 
 #### /bin/cat 2（150）
 
@@ -368,7 +373,7 @@ BJD{UVWHZAITWAU}
 m1ao~miao~mi@o~Mia0~m!aO~m1a0~~~
 ```
 
-
+<br/>
 
 #### testyournc（200）
 
@@ -385,7 +390,7 @@ m1ao~miao~mi@o~Mia0~m!aO~m1a0~~~
 - https://ytoworld.tk/index.php/archives/100/#testyournc
 - https://lazzzaro.github.io/2020/05/24/match-DASCTF-May-%C3%97-BJDCTF-3rd-%E5%AE%89%E6%81%92%E4%BA%94%E6%9C%88%E8%B5%9B/#testyournc
 
-
+<br/>
 
 #### manual（400）
 
@@ -403,7 +408,7 @@ m1ao~miao~mi@o~Mia0~m!aO~m1a0~~~
 >
 > 183.129.189.60:10125,10126,10127,10128,10129,10130
 
-
+<br/>
 
 #### RainbowTable（200）
 
@@ -411,7 +416,7 @@ m1ao~miao~mi@o~Mia0~m!aO~m1a0~~~
 >
 > 183.129.189.60:10027,10031,10032,10033,10034,10035
 
-
+<br/>
 
 #### PY me（300）
 
@@ -419,7 +424,7 @@ m1ao~miao~mi@o~Mia0~m!aO~m1a0~~~
 >
 > 183.129.189.60:10020,10021,10022,10023,10024,10026
 
-
+<br/>
 
 ### CRYPTO
 
@@ -433,7 +438,7 @@ m1ao~miao~mi@o~Mia0~m!aO~m1a0~~~
 flag{ad7d973ffdd285b476a1a727b3a8fbc4}
 ```
 
-
+<br/>
 
 #### Encrypt_Img（200）
 
@@ -441,7 +446,7 @@ flag{ad7d973ffdd285b476a1a727b3a8fbc4}
 
 附加下载：2005205ec4f19b9b32a.zip
 
-
+<br/>
 
 #### easyLCG（100）
 
@@ -506,7 +511,7 @@ for seed in [714405490,1925643473,887076929,2098314912]:
 # flag{4dfe14e0c6c21ffcf5a3b4f0ed1911f6}
 ```
 
-
+<br/>
 
 #### knapsack（200）
 
@@ -514,7 +519,7 @@ for seed in [714405490,1925643473,887076929,2098314912]:
 
 附加下载：2005205ec4f19c904a2.zip
 
-
+<br/>
 
 #### Backpacker（300）
 
@@ -523,3 +528,4 @@ for seed in [714405490,1925643473,887076929,2098314912]:
 > 183.129.189.60:10036
 
 附加下载：2004225e9ff0cd1c4ea.zip
+
