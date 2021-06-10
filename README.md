@@ -126,5 +126,5 @@ python3 filesplit.py -c /mnt/file.7z
 | 链接                                                        | 说明                                                     |
 | ----------------------------------------------------------- | -------------------------------------------------------- |
 | [web题目复现](https://github.com/docimg/ctf_history_replay) | 使用docker镜像，已有镜像可以直接获取运行，不定期偶尔更新 |
-| [CTF在线工具](https://tools.readflag.cn/)                   | 一些CTF相关的信息收集整理                                |
+| [CTF在线工具](https://readflag.cn/)                   | 一些CTF相关的信息收集整理                                |
 
