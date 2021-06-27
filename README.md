@@ -41,7 +41,7 @@ writeup文档文件网盘链接如下（内容相同，任选其一）：
 
 > 链接：https://pan.baidu.com/s/1GxQ7t7FoufCMzyhfV726Aw 提取码：hdxw
 > 
-> 链接：https://share.weiyun.com/LuJAO0cZ 密码：blyfoa
+> ~~链接：https://share.weiyun.com/LuJAO0cZ 密码：blyfoa~~
 > 
 > 链接：https://t1m.lanzous.com/b0af582sj 密码:hdxw
 
