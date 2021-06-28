@@ -22,6 +22,8 @@
 
 [2021-GKCTF-checkbot0解_wp.pdf](../writeup/2021-GKCTF-checkbot0解_wp.pdf)
 
+[2021-GKCTF-官方WriteUp.pdf](../writeup/2021-GKCTF-官方WriteUp.pdf)
+
 <br/>
 
 ## 附件连接
@@ -31,6 +33,8 @@
 链接：https://t1m.lanzoui.com/b0afxefmf 密码:5555
 
 链接：https://pan.xunlei.com/s/VMdCTTzuAJJdphgFAWjo8x5ZA1 提取码：s8f9
+
+WEB/PWN源码：https://github.com/w4nd3r-0/GKCTF2021
 
 <br/>
 
