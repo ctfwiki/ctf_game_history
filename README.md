@@ -45,7 +45,7 @@ writeup文档文件网盘链接如下（内容相同，任选其一）：
 >
 > 链接：https://t1m.lanzous.com/b0af582sj 密码:hdxw
 >
-> 链接：https://pan.xunlei.com/s/VMdHIp3aljAj5p8tHK3X3aLHA1 提取码：6ny9
+> 链接：https://pan.xunlei.com/s/VMdqSuES3bfsjaifeyGCDth7A1 提取码：u5fa
 
 <br/>
 
@@ -85,7 +85,7 @@ writeup文档文件网盘链接如下（内容相同，任选其一）：
 
 ### 迅雷云盘
 
-1. 总容量500G，应该够用
+1. 总容量2T，应该够用
 2. 单文件大小限制4G以下（小于1G文件有备份）
 3. 每天1G上传流量限额
 
