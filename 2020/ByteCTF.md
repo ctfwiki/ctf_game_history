@@ -4,7 +4,7 @@
 >
 > 比赛网址：https://bytectf2020.xctf.org.cn/ad5/match/jeopardy/guide?event=32&hash=2d27a2da-9262-4f68-a592-8c234e783cad.event
 
-
+<br/>
 
 ### writeup
 
@@ -18,17 +18,17 @@
 
 2020-ByteCTF-WriteUp-byNu1L.pdf
 
-
+<br/>
 
 ### 附件链接
 
-链接：https://pan.baidu.com/s/1ix0PIVayXLZ__hq1zTxStw 提取码：hdxw
+链接：https://pan.baidu.com/s/1ZUyJRSvC1_95JLJHnleD1g 提取码：xing
 
-链接：https://share.weiyun.com/rNfYCdAz 密码：8uy83i
+链接：https://pan.xunlei.com/s/VMdtuD1uMMliGEf4es_Jm1qgA1 提取码：zs57
 
-外链: https://t1m.lanzous.com/b0af9iopc 密码:hdxw
+链接：https://ctf.lanzoui.com/b02c7s3zi 密码:xing
 
-
+<br/>
 
 ## 题目信息
 
@@ -44,7 +44,7 @@
 
 附件下载：95c5afea92ceb58c3c4933623b50674b.zip
 
-
+<br/>
 
 #### gun(43solved,322pt)
 
@@ -53,7 +53,7 @@
 
 附件下载：270961c9d5404345b0bd13e813e26315.zip
 
-
+<br/>
 
 #### ohmyjson(2solved,952pt)
 
@@ -64,7 +64,7 @@
 
 附件下载：f7d6ff8d0a714e159e97d7410ecf8613.zip
 
-
+<br/>
 
 #### easyheap(33solved,384pt)
 
@@ -73,14 +73,14 @@
 
 附件下载：cc388fc5b354402688765c8c371392b3.zip
 
-
+<br/>
 
 #### leak(13solved,625pt)
 
 > nc 123.57.209.176 30775
 > 备用：nc 123.56.96.75 30775
 
-
+<br/>
 
 ### CRYPTO
 
@@ -91,7 +91,7 @@
 
 附件下载：8be1633cd52a449caa46c9b199d4cdc9.zip
 
-
+<br/>
 
 #### APAKE(8solved,740pt)
 
@@ -100,7 +100,7 @@
 
 附件下载：7452831fac254b0d94800631fb7c2a47.zip
 
-
+<br/>
 
 #### threshold(15solved,588pt)
 
@@ -109,7 +109,7 @@
 
 附件下载：4f2f3dc4980041839f2fe0bf72323da0.zip
 
-
+<br/>
 
 ### REVERSE
 
@@ -121,7 +121,7 @@
 
 附件下载：94df23fa53bd42b3ae211be20768a81b.zip
 
-
+<br/>
 
 #### Easy Flutter(0solved,1000pt)
 
@@ -131,7 +131,7 @@
 
 附件下载：151abe691959ea9e037dcbe2ea2ea557.zip
 
-
+<br/>
 
 #### Reverse Algorithm(2solved,952pt)
 
@@ -143,7 +143,7 @@
 
 附件下载：080547fdd4f04b5fb98f6e12da348ee7.zip
 
-
+<br/>
 
 #### DaShen Decode AES(28solved,425pt)
 
@@ -151,7 +151,7 @@
 
 附件下载：363999908d964620989f92a5eb84793a.zip
 
-
+<br/>
 
 #### App1c(8solved,740pt)
 
@@ -159,7 +159,7 @@
 
 附件下载：b8f297a103014f5d9526cebabcadf6a4.zip
 
-
+<br/>
 
 #### CrackMe(12solved,645pt)
 
@@ -170,7 +170,7 @@
 
 附件下载：0c26e1ac7f4f4bbc94f65a71ac4b9c89.zip
 
-
+<br/>
 
 #### creakme(8solved,740pt)
 
@@ -178,7 +178,7 @@
 
 附件下载：a3f108d44cd14301b440eecf97c5314c.zip
 
-
+<br/>
 
 #### QIAO(39solved,344pt)
 
@@ -186,7 +186,7 @@
 
 附件下载：4abe9bde20084233b9aa4f1a311742b1.zip
 
-
+<br/>
 
 ### WEB
 
@@ -203,7 +203,7 @@
 
 附件下载：55faef1777b640f7b5c06c63110afbef.zip
 
-
+<br/>
 
 #### easy_scrapy(3solved,909pt)
 
@@ -220,7 +220,7 @@
 >
 > hint3: scrapy_redis
 
-
+<br/>
 
 #### Wallbreaker 2020(1solved,1000pt)
 
@@ -229,7 +229,7 @@
 >
 > (Environment will reset every 10 minutes)
 
-
+<br/>
 
 #### beaker_browser(0solved,1000pt)
 
@@ -243,7 +243,7 @@
 
 附件下载：beaker_browser_attachment.zip、beaker_browser.zip（更新附件，106M）
 
-
+<br/>
 
 #### secure_website(1solved,1000pt)
 
@@ -261,7 +261,7 @@
 > http://39.102.70.108:30083/
 > http://39.102.70.108:30084/
 
-
+<br/>
 
 #### jvav(4solved,869pt)
 
@@ -272,7 +272,7 @@
 > https://47.94.154.215:30443/
 > (If chrome shows error, just type "thisisunsafe" to bypass.)
 
-
+<br/>
 
 ### MISC
 
@@ -282,7 +282,7 @@
 
 附件下载：d4a1a7ab64e1c906ed2bb897d235212d.zip
 
-
+<br/>
 
 #### double_game(9solved,714pt)
 
@@ -293,7 +293,7 @@
 
 附件下载：816e0e9044dc4353a7ab8856bf3181b3.zip
 
-
+<br/>
 
 #### PT Site(20solved,512pt)
 
@@ -302,7 +302,7 @@
 > [http://182.92.4.49:30080](http://182.92.4.49:30080/)
 > [http://123.57.66.79:30080](http://123.57.66.79:30080/)
 
-
+<br/>
 
 #### Hardcore Watermark 01(6solved,800pt)
 
@@ -310,7 +310,7 @@
 
 附件下载：cd26292189e709a8348e6b453894a8dd.zip
 
-
+<br/>
 
 #### Hardcore Watermark 02(2solved,952pt)
 
@@ -318,7 +318,7 @@
 
 附件下载：529e6b0fc59b4720ac7167da58d75faa.zip
 
-
+<br/>
 
 #### checkin(456solved,42pt)
 
@@ -328,7 +328,7 @@
 ByteCTF{3b6ff69f-8a29-4236-9383deaafb}
 ```
 
-
+<br/>
 
 #### survey(152solved,116pt)
 

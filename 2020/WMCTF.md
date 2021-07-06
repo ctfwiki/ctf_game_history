@@ -4,7 +4,7 @@
 
 > 比赛时间：2020-08-01 09:00~2020-08-03 09:00
 
-
+<br/>
 
 ## Writeup
 
@@ -16,17 +16,17 @@
 
 [2020 WMCTF Web Writeup-嘶吼](https://mp.weixin.qq.com/s/tgoOINKa0Lu2i_0-Bsq18A)
 
-
+<br/>
 
 ## 附件链接
 
-链接：https://pan.baidu.com/s/19rMlt_HcYy03rAOrR9Gwow 提取码：hdxw
+链接：https://pan.baidu.com/s/1I6s0YJGdAqocQx_pbSiTjQ 提取码：xing
 
-链接：https://share.weiyun.com/Sq8mNMvu 密码：wzfh5a
+链接：https://pan.xunlei.com/s/VMduSJD2Pq7_Cfgj3MqKTSpKA1 提取码：nrmh
 
-外链:https://t1m.lanzous.com/b0af2nane 密码:hdxw
+链接：https://ctf.lanzoui.com/b02c7soji 密码:xing
 
-
+<br/>
 
 ## CRYPTO
 
@@ -40,7 +40,7 @@
 
 附件下载：372e17971a714e1ba9bb4d57f1611420.zip
 
-
+<br/>
 
 ### Sum
 
@@ -50,7 +50,7 @@
 
 附件下载：61f9ccc9a594429594bd3f229f18ec4e.zip
 
-
+<br/>
 
 ### Game
 
@@ -64,7 +64,7 @@
 
 附件下载：e6df87ffa48f41a688ecf04b493fd7f3.zip
 
-
+<br/>
 
 ### idiot box
 
@@ -76,13 +76,13 @@
 
 附件下载：c489b7bd4415480aa8a98c12d869ea03.zip
 
-
+<br/>
 
 ### babySum
 
 附件下载：ab0afb310260486c9ac5486e2238306a.zip
 
-
+<br/>
 
 ## MISC
 
@@ -100,7 +100,7 @@
 
 附件下载：Dalabengba.rar（233M）、data.rar
 
-
+<br/>
 
 ### python_is_fun
 
@@ -146,7 +146,7 @@ exit(0)
 Give your shellcode:
 ```
 
-
+<br/>
 
 ### Performance_artist
 
@@ -156,7 +156,7 @@ Give your shellcode:
 
 附件下载：ab9afbbab77549ef94c31f515fce5d53.zip
 
-
+<br/>
 
 ### Music_game
 
@@ -182,7 +182,7 @@ Give your shellcode:
 >
 > hint: Add multiple servers
 
-
+<br/>
 
 ### Music_game_2
 
@@ -206,7 +206,7 @@ Give your shellcode:
 
 附件下载：arrachment.zip
 
-
+<br/>
 
 ### Ipcam
 
@@ -216,7 +216,7 @@ Give your shellcode:
 
 附件下载：9698c4c541d240dbb5c47fb9b248b3fc.zip
 
-
+<br/>
 
 ### XMAN_Happy_birthday!
 
@@ -224,7 +224,7 @@ Give your shellcode:
 
 附件下载：a129d99659f34479a7d40afd4a10b5ae.zip
 
-
+<br/>
 
 ### sign-in
 
@@ -234,7 +234,7 @@ Give your shellcode:
 WMCTF{W3lc0me_tO_WMCTF2020}
 ```
 
-
+<br/>
 
 ### FeedBack
 
@@ -245,7 +245,7 @@ WMCTF{W3lc0me_tO_WMCTF2020}
 WMCTF{Thanks_for_your_FeedBack}
 ```
 
-
+<br/>
 
 ## WEB
 
@@ -275,7 +275,7 @@ if(isset($_GET['content'])) {
 }
 ```
 
-
+<br/>
 
 ### Make PHP Great Again
 
@@ -293,7 +293,7 @@ if(isset($_GET['file'])) {
 }
 ```
 
-
+<br/>
 
 ### NobodyKnowsBaoTaBetterThanMe
 
@@ -320,13 +320,13 @@ WMCTF{Y0u_S33_Th15_H4mbu29er_15_0Kay_or_N0t}
 
 writeup: https://www.zhaoj.in/read-6660.html
 
-
+<br/>
 
 ### SimpleAuth
 
 > http://simple.wmctf.wetolink.com/
 
-
+<br/>
 
 ### Login me again and again
 
@@ -346,7 +346,7 @@ writeup: https://www.zhaoj.in/read-6660.html
 >
 > hint4: As the old saying says, 'All seems fine'
 
-
+<br/>
 
 ### gogogo
 
@@ -360,7 +360,7 @@ writeup: https://www.zhaoj.in/read-6660.html
 
 附件下载：8372858daa2c4b5bb0584ce74b6d58df.zip
 
-
+<br/>
 
 ### base64
 
@@ -373,7 +373,7 @@ writeup: https://www.zhaoj.in/read-6660.html
 
 源码下载：b64.zip
 
-
+<br/>
 
 ### easycoherence
 
@@ -386,7 +386,7 @@ writeup: https://www.zhaoj.in/read-6660.html
 
 java留言页面
 
-
+<br/>
 
 ### web_checkin2
 
@@ -398,7 +398,7 @@ java留言页面
 >
 > hint: Brute force is not needed
 
-
+<br/>
 
 ### webweb
 
@@ -410,7 +410,7 @@ java留言页面
 
 附件下载：42aa278af89247f2aca94857e10ad021.zip
 
-
+<br/>
 
 ### Make PHP Great Again 2.0
 
@@ -431,7 +431,7 @@ if(isset($_GET['file'])) {
 }
 ```
 
-
+<br/>
 
 ## REVERSE
 
@@ -441,7 +441,7 @@ if(isset($_GET['file'])) {
 
 附件下载：93189becd140475091c10c0ea00c59ca.zip
 
-
+<br/>
 
 ### Wmware
 
@@ -449,19 +449,19 @@ if(isset($_GET['file'])) {
 
 附件下载：b11ffd502a334b2cbeed064aea5d913b.zip
 
-
+<br/>
 
 ### Welcome to CTF
 
 附件下载：3b2d6fd20e0c4f0fa8ec40c018cf02d0.zip
 
-
+<br/>
 
 ### Meet_in_July
 
 附件下载：fd5e0f7825134b6086efc9f1860143be.zip
 
-
+<br/>
 
 ### easy_apk
 
@@ -469,7 +469,7 @@ if(isset($_GET['file'])) {
 
 附件下载：435775eca6594d749e71e006ebb4de9b.zip
 
-
+<br/>
 
 ## PWN
 
@@ -483,7 +483,7 @@ if(isset($_GET['file'])) {
 
 附件下载：4b4ddb8c25bb4b21a7ab420f83c6ddf2.zip
 
-
+<br/>
 
 ### cfgo-CheckIn
 
@@ -494,7 +494,7 @@ if(isset($_GET['file'])) {
 
 附件下载：ff3a8775b78240a89e9845925c608467.zip
 
-
+<br/>
 
 ### cfgo-LuckyMaze
 
@@ -510,7 +510,7 @@ if(isset($_GET['file'])) {
 
 附件下载：c55577361fb146e5855e16f2a3e4586b.zip
 
-
+<br/>
 
 ### mengyedekending
 
@@ -518,7 +518,7 @@ if(isset($_GET['file'])) {
 
 附件下载：For Attacker.zip
 
-
+<br/>
 
 ### baby_mac
 

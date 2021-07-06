@@ -28,11 +28,11 @@
 
 ## 附件连接
 
-链接：https://pan.baidu.com/s/1KLjT9NBvAvw63o2hHMxKrQ 提取码：5555
-
-链接：https://t1m.lanzoui.com/b0afxefmf 密码:5555
+链接：https://pan.baidu.com/s/1t_x26s-9nka-tmPdMACMqw 提取码：xing
 
 链接：https://pan.xunlei.com/s/VMdqT8dKXNY_5ns9QX94b8EMA1 提取码：un5e
+
+链接：https://ctf.lanzoui.com/b02c7t9ch 密码:xing
 
 WEB/PWN源码：https://github.com/w4nd3r-0/GKCTF2021
 

@@ -10,15 +10,19 @@
 
 ## writeup
 
+网盘文档：
+
+2021-TCTF-WriteUp-By-Nu1L.pdf
+
 <br/>
 
 ## 附件链接
 
-链接：https://pan.baidu.com/s/1T4YVAcbGVkT4kSeA-lhJlw 提取码：5555
+链接：https://pan.baidu.com/s/1oOx0SjZ0SPgDEjvpIODuUQ 提取码：xing
 
 链接：https://pan.xunlei.com/s/VMdqMtrxzL5Ii_Ss5A9ZAK3lA1 提取码：9n9b
 
-链接：https://t1m.lanzoui.com/b0afy4iuh 密码:5555
+链接：https://ctf.lanzoui.com/b02c7thha 密码:xing
 
 <br/>
 
@@ -379,4 +383,3 @@ Your answer: Invalid Input!
 
 ```
 flag{im_curious_have_u_viewed_source_before_filling_out_the_survey}
-

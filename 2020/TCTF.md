@@ -9,23 +9,23 @@
 IRC: #0ctf2020 on Freenode
 ```
 
-
+<br/>
 
 ### writeup
 
 [新鲜出炉 | 2020 TCTF Online Web WriteUp](https://www.4hou.com/posts/p7BQ)
 
-
+<br/>
 
 ## 附件链接
 
-链接：https://pan.baidu.com/s/1OteehbsXRK4rN9Hke5Fmow 提取码：hdxw
+链接：https://pan.baidu.com/s/1E8LD1ul4CePBDRZCtPxtXg 提取码：xing
 
-链接：https://share.weiyun.com/urWHBBmw 密码：frzm0k
+链接：https://pan.xunlei.com/s/VMduOfUKfEYnAXLCGdHii-vQA1 提取码：kfm8
 
-外链:https://t1m.lanzous.com/b0aez32xi 密码:hdxw
+链接：https://ctf.lanzoui.com/b02c7smif 密码:xing
 
-
+<br/>
 
 ## REVERSE
 
@@ -35,19 +35,19 @@ IRC: #0ctf2020 on Freenode
 
 附件下载：flash.tar.gz
 
-
+<br/>
 
 ### Happy Tree（17solved,407pt）
 
 附件下载：happy_tree_5afdfd58537ced7c61de957ea243dfa186448a6d.zip
 
-
+<br/>
 
 ### babymips（27solved,297pt）
 
 附件下载：babymips.zip
 
-
+<br/>
 
 ### J（9solved,578pt）
 
@@ -55,7 +55,7 @@ IRC: #0ctf2020 on Freenode
 
 附件下载：j.zip
 
-
+<br/>
 
 ### w（11solved,523pt）
 
@@ -63,9 +63,9 @@ IRC: #0ctf2020 on Freenode
 >
 > updated: file updated, pls re-download again. Only last step updated. `ww` also not affected
 
-附件下载：ww.c66c281e1353bb5d8e08a560251ad262.tgz
+附件下载：ww.c66c281e1353bb5d8e08a560251ad262.tar.gz
 
-
+<br/>
 
 ## PWNABLE
 
@@ -79,7 +79,7 @@ IRC: #0ctf2020 on Freenode
 
 附件下载：duet.tar.gz
 
-
+<br/>
 
 ### flash-2（4solved,785pt）
 
@@ -89,7 +89,7 @@ IRC: #0ctf2020 on Freenode
 
 附件下载：flash.tar.gz
 
-
+<br/>
 
 ### Baby Bypass（5solved,733pt）
 
@@ -99,7 +99,7 @@ IRC: #0ctf2020 on Freenode
 
 附件下载：babybypass.tar.gz
 
-
+<br/>
 
 ### One Line JS（1solved,1000pt）
 
@@ -109,7 +109,7 @@ IRC: #0ctf2020 on Freenode
 
 附件下载：mujs-42fa6a11fa34d2267b7586f36226625e4ae34480.tar.gz
 
-
+<br/>
 
 ### Do It, Try It（0solved,1000pt）
 
@@ -119,7 +119,7 @@ IRC: #0ctf2020 on Freenode
 >
 > Hint: http://111.186.59.7/poc.js
 
-附件下载：DoItTryIt.tar.xz
+附件下载：DoItTryIt.tar.gz
 
 ```js
 // poc.js
@@ -139,7 +139,7 @@ for (var i = 0; i < 1000; i++) {
 }
 ```
 
-
+<br/>
 
 ### Chromium RCE（29solved,282pt）
 
@@ -154,7 +154,7 @@ for (var i = 0; i < 1000; i++) {
 
 附件下载：chromium_rce.tar.gz
 
-
+<br/>
 
 ### simple echoserver（28solved,289pt）
 
@@ -165,7 +165,7 @@ for (var i = 0; i < 1000; i++) {
 
 附件下载：simple_echoserver.zip
 
-
+<br/>
 
 ### eeeeeemoji（12solved,500pt）
 
@@ -175,7 +175,7 @@ for (var i = 0; i < 1000; i++) {
 
 附件下载：eeeeeemoji_19f098c2f96d446db81d0363da464f5a406d9e84.zip
 
-
+<br/>
 
 ### Chromium SBX（7solved,647pt）
 
@@ -189,7 +189,7 @@ for (var i = 0; i < 1000; i++) {
 
 附件下载：https://drive.google.com/file/d/1bF2aRYjhy0nKTE3wG-NkfGlmGbylSKxV/view?usp=sharing
 
-
+<br/>
 
 ### Chromium Fullchain（2solved,916pt）
 
@@ -205,7 +205,7 @@ for (var i = 0; i < 1000; i++) {
 
 附件下载：https://drive.google.com/file/d/1xD7mnET6ssuEgDYccvv2q17M2oHKC1cT/view?usp=sharing
 
-
+<br/>
 
 ### ww（0solved,1000pt）
 
@@ -217,9 +217,9 @@ for (var i = 0; i < 1000; i++) {
 >
 > `nc pwnable.org 20206`
 
-附件下载：ww.tgz
+附件下载：ww.tar.gz
 
-
+<br/>
 
 ## WEB
 
@@ -231,7 +231,7 @@ for (var i = 0; i < 1000; i++) {
 
 附件下载：amp2020.zip
 
-
+<br/>
 
 ### Wechat Generator（32solved,261pt）
 
@@ -239,7 +239,7 @@ for (var i = 0; i < 1000; i++) {
 >
 > http://pwnable.org:5000/
 
-
+<br/>
 
 ### easyphp（175solved,59pt）
 
@@ -247,19 +247,19 @@ for (var i = 0; i < 1000; i++) {
 
 部分源码：easyphp.zip
 
-
+<br/>
 
 ### lottery（21solved,354pt）
 
 > http://pwnable.org:2333/
 
-
+<br/>
 
 ### noeasyphp（18solved,392pt）
 
 > My php have some problem that some functions are not working correctly or even disabled! This time we have no idea about it... Help me get the flag in the server: http://pwnable.org:19261/
 
-
+<br/>
 
 ## CRYPTO
 
@@ -271,7 +271,7 @@ for (var i = 0; i < 1000; i++) {
 
 附件下载：ring_1f0f741fcfdfc52519d7b09b78c97b43.tar.gz
 
-
+<br/>
 
 ### emmm（18solved,392pt）
 
@@ -279,7 +279,7 @@ for (var i = 0; i < 1000; i++) {
 
 附件下载：emmm_aa99aba25254f6d6ef373ee48b99f8c8.tar.gz（288M）
 
-
+<br/>
 
 ### sham（5solved,733pt）
 
@@ -287,7 +287,7 @@ for (var i = 0; i < 1000; i++) {
 
 附件下载：sham_1abc55860e453619482de930fcf44562.tar.gz
 
-
+<br/>
 
 ### Simple Curve（16solved,423pt）
 
@@ -295,7 +295,7 @@ for (var i = 0; i < 1000; i++) {
 
 附件下载：chall_6e25fd5d004ec238b5b8489a13a5d32a.zip
 
-
+<br/>
 
 ### gene（5solved,733pt）
 
@@ -304,7 +304,7 @@ for (var i = 0; i < 1000; i++) {
 
 附件下载：gene_2462cb70b4f73102d2f0266cf0efea2c.tar.gz
 
-
+<br/>
 
 ## MISC
 
@@ -318,7 +318,7 @@ for (var i = 0; i < 1000; i++) {
 flag{this_is_a_sample_flag}
 ```
 
-
+<br/>
 
 ### PyAuCalc（17solved,407pt）
 
@@ -326,13 +326,13 @@ flag{this_is_a_sample_flag}
 > `nc pwnable.org 41337`
 > (Docker: `FROM python:3.8`, environment resets periodically)
 
-
+<br/>
 
 ### Cloud Computing（42solved,211pt）
 
 > Welcome to our new cloud function computing platform, enjoy here => http://pwnable.org:47780/.
 
-
+<br/>
 
 ### eeemoji（40solved,220pt）
 
@@ -342,7 +342,7 @@ flag{this_is_a_sample_flag}
 
 附件下载：eeemoji_50248b15a8cc5ec43ee358d0c8cb4a5318e1b0f6.zip
 
-
+<br/>
 
 ### Cloud Computing v2（18solved,275pt）
 

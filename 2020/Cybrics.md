@@ -15,29 +15,31 @@
 >
 > Dynamic scoring will be used: the more teams solve a challenge, the less it will cost in the end.
 
+<br/>
+
 ### 比赛信息
 
 > 比赛网址：https://cybrics.net/
 >
 > 比赛时间：2020-07-25 18:00~2020-07-26 18:00
 
-
+<br/>
 
 ### Writeup
 
 [2020-CyBRICS_writeup.pdf](../writeup/2020-CyBRICS_writeup.pdf)
 
-
+<br/>
 
 ## 附件链接
 
-链接：https://pan.baidu.com/s/1f9JuESAS3rys-PdlSNJIeA 提取码：hdxw
+链接：https://pan.baidu.com/s/1dsRThzH7LEkrDVLJ4DXO1A 提取码：xing
 
-链接：https://share.weiyun.com/Yo8Ljyqs 密码：2jho0g
+链接：https://pan.xunlei.com/s/VMdu5bNe6aIQFZ23PgCCNUrIA1 提取码：9udz
 
-外链:https://t1m.lanzous.com/b0af1w5ba 密码:hdxw
+链接：https://ctf.lanzoui.com/b02c7sbri 密码:xing
 
-
+<br/>
 
 ## Cyber
 
@@ -49,7 +51,7 @@
 >
 > **Also be sure to join [@cybrics Telegram chat](https://t.me/cybrics)** for challenge-related announcements and contacting orgs in case all goes wrong
 
-
+<br/>
 
 ### Broken Invitation (Baby, 50 pts)
 
@@ -59,7 +61,7 @@
 
 附件下载：broken_invitation.pdf
 
-
+<br/>
 
 ### Serial (Easy, 63 pts)
 
@@ -73,7 +75,7 @@
 
 附件下载：serial.tar.gz
 
-
+<br/>
 
 ### Encrypted FS (Medium, 279 pts)
 
@@ -91,7 +93,7 @@
 
 附件下载：efs_repaired.tar.gz
 
-
+<br/>
 
 ### Too Secure (Medium, 237 pts)
 
@@ -111,7 +113,7 @@
 
 附件下载：too_secure.pdf
 
-
+<br/>
 
 ### Botmaster (Hard, 500 pts)
 
@@ -125,7 +127,7 @@
 
 附件下载：botmaster.tar.gz（186M）
 
-
+<br/>
 
 ## CTB
 
@@ -146,7 +148,7 @@
 > Password: B9Go9eGS
 > ```
 
-
+<br/>
 
 ### OTP (Easy, 292 pts)
 
@@ -158,7 +160,7 @@
 
 源码下载：OTP.zip
 
-
+<br/>
 
 ### Whale Corp (Medium, 469 pts)
 
@@ -171,7 +173,7 @@
 > Password: tZo1vebP
 > ```
 
-
+<br/>
 
 ### Pwnogram (Hard, 424 pts)
 
@@ -191,7 +193,7 @@
 
 附件下载：pwnogram.tar.gz
 
-
+<br/>
 
 ### Pwnogram Part II (Hard, 500 pts)
 
@@ -209,7 +211,7 @@
 
 附件下载：pwnogram.tar.gz（和上一题相同）
 
-
+<br/>
 
 ## Forensic
 
@@ -225,7 +227,7 @@
 
 附件下载：keyshooter.tar.gz
 
-
+<br/>
 
 ### Krevedka (Easy, 50 pts)
 
@@ -241,7 +243,7 @@
 
 附件下载：krevedka.tar.gz
 
-
+<br/>
 
 ### CodeShot (Medium, 352 pts)
 
@@ -251,7 +253,7 @@
 >
 > Admin user has the flag in his private images.
 
-
+<br/>
 
 ### Incident (Hard, 500 pts)
 
@@ -272,7 +274,7 @@
 >
 > **Hint at 20:00 —** We know that out service is vulnerable, and the backdoor was installed via exploitation of this vuln. If you want to dump the backdoor, you should exploit this vuln too
 
-
+<br/>
 
 ## Network
 
@@ -286,7 +288,7 @@
 
 附件下载：xcorp.tar.gz
 
-
+<br/>
 
 ### Google Cloud (Easy, 96 pts)
 
@@ -300,7 +302,7 @@
 
 附件下载：gcloud.tar.gz
 
-
+<br/>
 
 ### Moneylovers (Medium, 376 pts)
 
@@ -312,7 +314,7 @@
 
 附件下载：moneylovers.tar.gz
 
-
+<br/>
 
 ### NET fleeks (Hard, 469 pts)
 
@@ -331,7 +333,7 @@
 >
 > **Hint at 20:00 —** If the workstation is diskless, then how does it boot and where does it keep the data? Can we somehow leverage that we're in the same network? Can we peek and/or tamper with it? We need to get root shell on that box at the end of the day...
 
-
+<br/>
 
 ## rebyC
 
@@ -345,7 +347,7 @@
 
 附件下载：hellishreverse.tar.gz
 
-
+<br/>
 
 ### Quiz (Easy, 195 pts)
 
@@ -356,7 +358,7 @@
 >
 > *If the bot seems to be down, try to send `/start` command. Telegram can forget about webhooks sometimes. This won’t break your session. If the bot is still down after that, message the orgs :)*
 
-
+<br/>
 
 ### CatGirl Breach (Medium, 273 pts)
 
@@ -368,7 +370,7 @@
 
 附件下载：catgirlbreach.tar.gz
 
-
+<br/>
 
 ### Crcrcr (Hard, 406 pts)
 
@@ -395,7 +397,7 @@
 
 源码下载：crcrcr.tar.gz
 
-
+<br/>
 
 ## Reverse
 
@@ -411,7 +413,7 @@
 
 附件下载：babyrev.tar.gz
 
-
+<br/>
 
 ### Polyglot (Easy, 50 pts)
 
@@ -423,7 +425,7 @@
 
 附件下载：polyglot.tar.gz
 
-
+<br/>
 
 ### Hide and Seek (Medium, 241 pts)
 
@@ -435,7 +437,7 @@
 
 附件下载：hideandseek.tar.gz
 
-
+<br/>
 
 ### Hacked Again (Hard, 500 pts)
 
@@ -473,7 +475,7 @@
 > yes
 > ```
 
-
+<br/>
 
 ## Web
 
@@ -489,7 +491,7 @@
 
 
 
-
+<br/>
 
 ### Gif2png (Easy, 52 pts)
 
@@ -501,7 +503,7 @@
 
 源码下载：gif2png.tar.gz
 
-
+<br/>
 
 ### WoC (Medium, 209 pts)
 
@@ -515,7 +517,7 @@
 
 源码下载：woc.tar.gz
 
-
+<br/>
 
 ### Developer's Laptop (Hard, 376 pts)
 
@@ -526,3 +528,4 @@
 > Team token: `xxxxxxxxxxxxxxxxxxxxxx`
 >
 > Their developer's laptop is your target
+

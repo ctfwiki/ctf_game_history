@@ -3,7 +3,6 @@
 > https://nctf.x1c.club/team
 >
 > 比赛时间：11月22日21:00-11月24日21:00
->
 
 <br/>
 
@@ -23,11 +22,11 @@
 
 ## 附件链接
 
-链接：https://pan.baidu.com/s/11s7opT-PB_UPQJeg6MBpRQ 提取码：hdxw
+链接：https://pan.baidu.com/s/1cqmhfTrrcQ4i5zL7vACRUA 提取码：xing
 
-链接：https://share.weiyun.com/suSynABh 密码：8j84yf
+链接：https://pan.xunlei.com/s/VMdu1J5MYQu6ZYg4Ch44dgCJA1 提取码：td5b
 
-链接：https://t1m.lanzous.com/b0aetdjxe 密码:hdxw
+链接：https://ctf.lanzoui.com/b02c7rq9e 密码:xing
 
 <br/>
 

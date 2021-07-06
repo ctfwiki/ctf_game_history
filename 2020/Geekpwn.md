@@ -1,28 +1,32 @@
 ## 比赛信息
 
-比赛名称：第二届极棒 x 云鼎杯云安全比赛 > 云靶场挑战热身赛
+> 比赛名称：第二届极棒 x 云鼎杯云安全比赛 > 云靶场挑战热身赛
+>
+> 比赛时间：2020年7月11日 10:00（北京时间）- 7月12日 22:00（北京时间）
+>
+> 报名网址：http://www.geekpwn.org/zh/index.html
+>
+> 参赛网址：http://cloudsec.geekpwn.org/
+>
+> 比赛类型：组队，人数不限
 
-比赛时间：2020年7月11日 10:00（北京时间）- 7月12日 22:00（北京时间）
+<br/>
 
-报名网址：http://www.geekpwn.org/zh/index.html
+## writeup
 
-参赛网址：http://cloudsec.geekpwn.org/
+网盘文档：[2020-geekpwnctf-wp.pdf](../writeup/2020-geekpwnctf-wp.pdf)
 
-比赛类型：组队，人数不限
-
-writeup：[2020-geekpwnctf-wp.pdf](../writeup/2020-geekpwnctf-wp.pdf)
-
-
+<br/>
 
 ## 附件链接
 
-链接：https://pan.baidu.com/s/1KYC6I0a62wqilbQb5PDGCw 提取码：hdxw
+链接：https://pan.baidu.com/s/1DAG3I6nO3G1V1zRosdj53Q 提取码：xing
 
-链接：https://share.weiyun.com/hkDldTVp 密码：3h28a6
+链接：https://pan.xunlei.com/s/VMduCaOitgqcuGGaSVGS6D3QA1 提取码：c8cr
 
-外链:https://t1m.lanzous.com/b0af0k1jg 密码:hdxw
+链接：https://ctf.lanzoui.com/b02c7sfgb 密码:xing
 
-
+<br/>
 
 ## MISC
 
@@ -32,7 +36,7 @@ writeup：[2020-geekpwnctf-wp.pdf](../writeup/2020-geekpwnctf-wp.pdf)
 
 附件下载：welcome.zip
 
-
+<br/>
 
 ## PWN
 
@@ -44,7 +48,7 @@ writeup：[2020-geekpwnctf-wp.pdf](../writeup/2020-geekpwnctf-wp.pdf)
 
 附件下载：babypwn.tar.gz
 
-
+<br/>
 
 ### PaperPrinter(590pt,10solved)
 
@@ -54,7 +58,7 @@ writeup：[2020-geekpwnctf-wp.pdf](../writeup/2020-geekpwnctf-wp.pdf)
 
 附件下载：paperprinter.tar.gz
 
-
+<br/>
 
 ### EasyShell(481pt,15solved)
 
@@ -64,7 +68,7 @@ writeup：[2020-geekpwnctf-wp.pdf](../writeup/2020-geekpwnctf-wp.pdf)
 
 附件下载：easyshell.tar.gz
 
-
+<br/>
 
 ### PlayTheNew(590pt,10solved)
 
@@ -74,7 +78,7 @@ writeup：[2020-geekpwnctf-wp.pdf](../writeup/2020-geekpwnctf-wp.pdf)
 
 附件下载：playthenew.tar.gz
 
-
+<br/>
 
 ## G-ESCAPE
 
@@ -86,7 +90,7 @@ writeup：[2020-geekpwnctf-wp.pdf](../writeup/2020-geekpwnctf-wp.pdf)
 
 附件下载：childshell.tar.gz
 
-
+<br/>
 
 ### Vimu(928pt,2solved)
 
@@ -100,7 +104,7 @@ writeup：[2020-geekpwnctf-wp.pdf](../writeup/2020-geekpwnctf-wp.pdf)
 
 附件下载：vimu.tar.gz
 
-
+<br/>
 
 ### EasyKernelVM(1000pt,1solved)
 
@@ -111,11 +115,10 @@ writeup：[2020-geekpwnctf-wp.pdf](../writeup/2020-geekpwnctf-wp.pdf)
 > ssh 183.60.136.232 22
 >
 > user: pwnkernel    pass: pwnkernel2002
->
 
 附件下载：easykernelvm.tar.gz
 
-
+<br/>
 
 ### Kemu(1000pt,0solved)
 
@@ -126,11 +129,10 @@ writeup：[2020-geekpwnctf-wp.pdf](../writeup/2020-geekpwnctf-wp.pdf)
 > ssh 183.60.136.232 22
 >
 > user: pwnkemu    pass: pwnkemu2002
->
 
 附件下载：kemu.tar.gz
 
-
+<br/>
 
 ## WEB
 
@@ -140,7 +142,7 @@ writeup：[2020-geekpwnctf-wp.pdf](../writeup/2020-geekpwnctf-wp.pdf)
 >
 > http://183.60.136.230:20192
 
-
+<br/>
 
 ### rtmpdump(1000pt,1solved)
 
@@ -150,7 +152,7 @@ writeup：[2020-geekpwnctf-wp.pdf](../writeup/2020-geekpwnctf-wp.pdf)
 
 附件下载：rtmpdump.zip
 
-
+<br/>
 
 ### noXSS 2020(565pt,11solved)
 
@@ -160,9 +162,9 @@ writeup：[2020-geekpwnctf-wp.pdf](../writeup/2020-geekpwnctf-wp.pdf)
 >
 > Please submit your payload at http://noxss2020-bot.cal1.cn:1337/
 
-附件下载：noxss2020.tgz
+附件下载：noxss2020.tar.gz
 
-
+<br/>
 
 ### umsg(406pt,20solved)
 
@@ -170,7 +172,7 @@ writeup：[2020-geekpwnctf-wp.pdf](../writeup/2020-geekpwnctf-wp.pdf)
 >
 > http://umsg.iffi.top:3000
 
-
+<br/>
 
 ## REVERSE
 
@@ -180,7 +182,7 @@ writeup：[2020-geekpwnctf-wp.pdf](../writeup/2020-geekpwnctf-wp.pdf)
 
 附件下载：androidcmd.zip
 
-
+<br/>
 
 ### babyre(406pt,20solved)
 
@@ -188,7 +190,7 @@ writeup：[2020-geekpwnctf-wp.pdf](../writeup/2020-geekpwnctf-wp.pdf)
 
 附件下载：babyre.zip
 
-
+<br/>
 
 ### Easyydre(650pt,8solved)
 

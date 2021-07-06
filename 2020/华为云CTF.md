@@ -26,11 +26,11 @@
 
 ### 附件链接
 
-链接：https://pan.baidu.com/s/1_vMH4q2Q7laBDIuhlvQQ4A 提取码：5555
+链接：https://pan.baidu.com/s/1lHk4Cc3KtjXD2V67Q74mAw 提取码：xing
 
-链接：https://share.weiyun.com/j4EYUOxv 密码：555555
+链接：https://pan.xunlei.com/s/VMdulVOCmiISmYScJtOOOqDXA1 提取码：6usd
 
-链接：https://t1m.lanzous.com/b0afeobvg 密码:5555
+链接：https://ctf.lanzoui.com/b02c7t1uh 密码:xing
 
 [官方题目源码](https://github.com/huaweictf/xctf_huaweicloud-qualifier-2020)
 

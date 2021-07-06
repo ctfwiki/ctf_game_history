@@ -1,28 +1,30 @@
 ## writeup
 
-#### 官方
+### 官方
 
 https://github.com/SycloverSecurity/SCTF2020
 
-/writeup/2020-SCTF 官方Write-up.md
+2020-SCTF 官方Write-up.md
 
-#### 其他
+<br/>
+
+### 其他
 
 [星盟安全SCTF--WriteUp](https://mp.weixin.qq.com/s/au7wmC-JLapP5fxhen5qVw)
 
 [SCTF2020 官方Write-up](https://mp.weixin.qq.com/s/nvSnGJ_GJ5LAY3t09KPXig)
 
-
+<br/>
 
 ## 附件链接
 
-链接：https://pan.baidu.com/s/1ZXUR2Ta_M_8u91CPTdwJDQ 提取码：hdxw
+链接：https://pan.baidu.com/s/1etvX7KtVpNxwQYoT76rN0g 提取码：xing
 
-链接：https://share.weiyun.com/uBCuZyUR 密码：nhprm8
+链接：https://pan.xunlei.com/s/VMduL0BkETPtiY7YQuMzP28VA1 提取码：98j2
 
-外链:https://t1m.lanzous.com/b0aeztv9e 密码:hdxw
+链接：https://ctf.lanzoui.com/b02c7skoj 密码:xing
 
-
+<br/>
 
 ## WEB
 
@@ -36,7 +38,7 @@ https://github.com/SycloverSecurity/SCTF2020
 
 附件下载：pysandbox.zip
 
-
+<br/>
 
 ### CloudDisk
 
@@ -47,7 +49,7 @@ https://github.com/SycloverSecurity/SCTF2020
 
 附件下载：app.zip
 
-
+<br/>
 
 ### bestlanguage
 
@@ -59,7 +61,7 @@ https://github.com/SycloverSecurity/SCTF2020
 
 附件下载：bestlanguage.zip
 
-
+<br/>
 
 ### UnsafeDefenseSystem
 
@@ -70,7 +72,7 @@ https://github.com/SycloverSecurity/SCTF2020
 > Overseas:
 > http://8.208.102.48/public/
 
-
+<br/>
 
 ### Login Me
 
@@ -84,7 +86,7 @@ https://github.com/SycloverSecurity/SCTF2020
 > hint1:Not sql injection, non-default key, no access restrictions to the extranet, nginx front limit request frequency (16r/s)
 > hint2: Compare the differences in encode or decode the execution methods between CAS 4.1.X-4.1.6 and CAS 4.1.7-4.2.X，you’ll find vuln.
 
-
+<br/>
 
 ### One step to get flag
 
@@ -103,14 +105,14 @@ https://github.com/SycloverSecurity/SCTF2020
 > Hint2:
 > RoR follows the “Convention Over Configuration” principle, e.g., there is some sort of routing convention between the high-level Rails apps
 
-
+<br/>
 
 ### pysandbox2
 
 > Same as pysandbox，but must rce
 > http://39.104.90.30:10000~10010
 
-
+<br/>
 
 ### Login Me Aagin
 
@@ -129,7 +131,7 @@ https://github.com/SycloverSecurity/SCTF2020
 
 附件下载：SCTF2020_Login_Me_Aagin.zip（204M）
 
-
+<br/>
 
 ### Jsonhub
 
@@ -142,7 +144,7 @@ https://github.com/SycloverSecurity/SCTF2020
 
 附件下载：jsonhub-cn.zip、jsonhub-overseas.zip
 
-
+<br/>
 
 ## CRYPTO
 
@@ -152,13 +154,13 @@ https://github.com/SycloverSecurity/SCTF2020
 
 附件下载：RSA.zip
 
-
+<br/>
 
 ### Lattice
 
 附件下载：Lattice.zip
 
-
+<br/>
 
 ## MISC
 
@@ -172,7 +174,7 @@ https://github.com/SycloverSecurity/SCTF2020
 SCTF{f78fsd1423fvsa}
 ```
 
-
+<br/>
 
 ### PassWord Lock
 
@@ -180,7 +182,7 @@ SCTF{f78fsd1423fvsa}
 
 附件下载：PassWord Lock.zip
 
-
+<br/>
 
 ### sing-in
 
@@ -191,7 +193,7 @@ SCTF{f78fsd1423fvsa}
 SCTF{welc0m3_t0_sctf2020_friends}
 ```
 
-
+<br/>
 
 ### AndroidDisplayBridge
 
@@ -199,7 +201,7 @@ SCTF{welc0m3_t0_sctf2020_friends}
 
 附件下载：attachment.zip
 
-
+<br/>
 
 ### Dou dizhu
 
@@ -215,7 +217,7 @@ SCTF{welc0m3_t0_sctf2020_friends}
 SCTF{Did-you-enj0y-1t?~~~~~~~~~!!~!!!~}
 ```
 
-
+<br/>
 
 ### EasyMisc
 
@@ -227,7 +229,7 @@ SCTF{Did-you-enj0y-1t?~~~~~~~~~!!~!!!~}
 SCTF{St@Y_@T_H0Me}
 ```
 
-
+<br/>
 
 ### PassWord Lock Plus
 
@@ -235,7 +237,7 @@ SCTF{St@Y_@T_H0Me}
 
 附件下载：PassWord Lock Plus.zip
 
-
+<br/>
 
 ## Reverse
 
@@ -245,7 +247,7 @@ SCTF{St@Y_@T_H0Me}
 
 附件下载：ac949ff033df44b888a91774e163b10c.zip
 
-
+<br/>
 
 ### get_up
 
@@ -253,7 +255,7 @@ SCTF{St@Y_@T_H0Me}
 
 附件下载：87f32158a2a34deca72a0788f2ea299b.zip
 
-
+<br/>
 
 ### signin
 
@@ -261,7 +263,7 @@ SCTF{St@Y_@T_H0Me}
 
 附件下载：signin.zip
 
-
+<br/>
 
 ### Orz
 
@@ -269,7 +271,7 @@ SCTF{St@Y_@T_H0Me}
 
 附件下载：2f055e8a399c40d09e0a5c86ba37f506.zip
 
-
+<br/>
 
 ### easyre
 
@@ -277,7 +279,7 @@ SCTF{St@Y_@T_H0Me}
 
 附件下载：easy.zip
 
-
+<br/>
 
 ### secret
 
@@ -285,7 +287,7 @@ SCTF{St@Y_@T_H0Me}
 
 附件下载：app-release.zip
 
-
+<br/>
 
 ## PWN
 
@@ -299,7 +301,7 @@ SCTF{St@Y_@T_H0Me}
 
 附件下载：19f0ddc0acc44efb8b64420b7bea2bd7.zip
 
-
+<br/>
 
 ### coolcode
 
@@ -308,7 +310,7 @@ SCTF{St@Y_@T_H0Me}
 
 附件下载：058dc23d76854fab9c0ee77dd819c221.zip
 
-
+<br/>
 
 ### EasyMojo
 
@@ -349,7 +351,7 @@ SCTF{St@Y_@T_H0Me}
 
 附件太大了(2.5G+101M)，无备份
 
-
+<br/>
 
 ### snake
 
@@ -360,7 +362,7 @@ SCTF{St@Y_@T_H0Me}
 
 附件下载：snake.zip
 
-
+<br/>
 
 ### MSRC Top 0xFFFFFFFF
 

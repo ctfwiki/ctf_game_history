@@ -4,7 +4,7 @@
 >
 > 比赛网址：https://ctf2020.nu1l.com/
 
-
+<br/>
 
 ### writeup
 
@@ -16,17 +16,19 @@
 
 2020-N1CTF-WriteUp By Venom.pdf
 
+<br/>
+
 ### 附件链接
 
-链接：https://pan.baidu.com/s/1Ew8fTWyJ0W2nF1ai_l4X7g 提取码：hdxw
+链接：https://pan.baidu.com/s/1V17t8na4pcFrBOFAfExc2Q 提取码：xing
 
-链接：https://share.weiyun.com/G8wsGwez 密码：rdkzyp
+链接：https://pan.xunlei.com/s/VMduF55-_a0PBZxGEUCHAHdnA1 提取码：678g
 
-外链:https://t1m.lanzous.com/b0af8zb0f 密码:hdxw
+链接：https://ctf.lanzoui.com/b02c7sh9g 密码:xing
 
 [官方题目源码](https://github.com/Nu1LCTF/n1ctf-2020)
 
-
+<br/>
 
 ## 题目信息
 
@@ -44,6 +46,8 @@ table n1key: id、key
 key: n1ctf20205bf75ab0a30dfc0c
 ```
 
+<br/>
+
 #### GinDriver(3solved,833pt)
 
 > The backend service will restart every minute but user data will be retained.
@@ -52,6 +56,8 @@ key: n1ctf20205bf75ab0a30dfc0c
 
 附件下载：c2415febb698ba47ed447aa42c1e6a6f.zip
 
+<br/>
+
 #### The King Of Phish (Victim Bot)(35solved,227pt)
 
 > Find a way to get your shell. The flag is on the victim's desktop.
@@ -59,6 +65,8 @@ key: n1ctf20205bf75ab0a30dfc0c
 > http://101.32.189.101:5000/
 
 源码下载：VictimBot.zip
+
+<br/>
 
 #### The King Of Phish (UserA-PC)(4solved,769pt)
 
@@ -70,6 +78,8 @@ key: n1ctf20205bf75ab0a30dfc0c
 
 源码下载：VictimBot.zip
 
+<br/>
+
 #### The King Of Phish (DC)(1solved,1000pt)
 
 > The flag's location is C:/flag.txt.
@@ -77,6 +87,8 @@ key: n1ctf20205bf75ab0a30dfc0c
 > http://101.32.189.101:5000/
 
 源码下载：VictimBot.zip
+
+<br/>
 
 #### Easy_tp5(11solved,499pt)
 
@@ -100,6 +112,8 @@ key: n1ctf20205bf75ab0a30dfc0c
 
 附件下载：f242832431765611a5739e12616a87e0.zip
 
+<br/>
+
 #### Zabbix_fun(6solved,666pt)
 
 > Please download the attachment to build the local environment yourself. Please note that you can only access http://127.0.0.1:8080/ to attack. If you can get the flag from secret_agent, describe the attack process in detail, and finally send it to my mail: iamstudy@126.com, I will give you the URL of the real online environment, and you can reproduce the attack again to obtain the real flag. Writeup must be described in detail. Finally, please don’t damage the environment. Thank you.
@@ -108,6 +122,8 @@ key: n1ctf20205bf75ab0a30dfc0c
 
 附件下载：3945b466579baa3c46ee787ee30b7c9d.zip
 
+<br/>
+
 #### Docker_manager(0solved,1000pt)
 
 > The challenge environment is restarted every 10 minutes.
@@ -115,6 +131,8 @@ key: n1ctf20205bf75ab0a30dfc0c
 > http://119.28.105.118/
 
 附件下载：734e3f68793a3bb58cfa3a1f8d7d6b03.zip
+
+<br/>
 
 ### PWN
 
@@ -126,6 +144,8 @@ key: n1ctf20205bf75ab0a30dfc0c
 
 附件下载：38487d6aafac87273aaf671b8e423457.zip
 
+<br/>
+
 #### SignIn(60solved,146pt)
 
 > nc 47.242.161.199 9990
@@ -133,6 +153,8 @@ key: n1ctf20205bf75ab0a30dfc0c
 > Due to network reasons, the remote server may be slow, please test locally before attacking the remote
 
 附件下载：e06c4f7b2b1c66e609b6f6e5118af7f1.zip
+
+<br/>
 
 #### Babyrouter(4solved,769pt)
 
@@ -144,6 +166,8 @@ key: n1ctf20205bf75ab0a30dfc0c
 
 附件下载：12d313be010f3c6fe9dd7bf617fcc8ac.zip
 
+<br/>
+
 #### Escape(2solved,909pt)
 
 > Seems that browser exploitation is becoming an essential skill for pwners lately. Let's see if you meet the standards.
@@ -152,6 +176,8 @@ key: n1ctf20205bf75ab0a30dfc0c
 
 附件下载：033868cf6ff18a1d9d903d92bf658e41.tgz.zip
 
+<br/>
+
 #### Kemu(1solved,1000pt)
 
 > Have you learned pci device?
@@ -159,6 +185,8 @@ key: n1ctf20205bf75ab0a30dfc0c
 > ssh pwn:pwn 8.210.166.195
 
 附件下载：4391528d9c6dca9441918d5927253d23.tar.gz
+
+<br/>
 
 #### Echoserver(6solved,666pt)
 
@@ -172,6 +200,8 @@ key: n1ctf20205bf75ab0a30dfc0c
 
 附件下载：338320ea08f14c7b2afb6a9581c9bdf7.zip
 
+<br/>
+
 #### W2L(3solved,833pt)
 
 > Let's exploit the 2017 bug in 2020.
@@ -179,6 +209,8 @@ key: n1ctf20205bf75ab0a30dfc0c
 > nc 47.242.143.220 6969
 
 附件下载：93bb92c3433926a88c271572c9335ee8.tar.gz
+
+<br/>
 
 ### CRYPTO
 
@@ -188,6 +220,8 @@ key: n1ctf20205bf75ab0a30dfc0c
 
 附件下载：4c2493e0504e6f8e4e044fd8c313aadd.zip
 
+<br/>
+
 #### BabyProof(8solved,587pt)
 
 > An easy non-interactive zero-knowledge proof.
@@ -195,6 +229,8 @@ key: n1ctf20205bf75ab0a30dfc0c
 > nc 101.32.203.233 23333
 
 附件下载：aa99a69fe535aa3d2747e60840d84e01.zip
+
+<br/>
 
 #### Curve(22solved,322pt)
 
@@ -204,11 +240,15 @@ key: n1ctf20205bf75ab0a30dfc0c
 
 附件下载：f40a64dcc2489a09b010dbba81475042.zip
 
+<br/>
+
 #### Easy RSA?(5solved,714pt)
 
 > Oh my god, how linear it is
 
 附件下载：5a4361724d5d2ff3e2ce8789b5b798ad.zip
+
+<br/>
 
 #### FlagBot(23solved,312pt)
 
@@ -216,15 +256,21 @@ key: n1ctf20205bf75ab0a30dfc0c
 
 附件下载：10c98b6259b3106189b5d22203a8b745.zip
 
+<br/>
+
 ### REVERSE
 
 #### Oflo(92solved,102pt)
 
 附件下载：8e29204565c44a402d280791f54659b1.zip
 
+<br/>
+
 #### Oh My Julia(8solved,587pt)
 
 附件下载：43bd298957c1b89c4fad9c0bf55024cc.zip
+
+<br/>
 
 #### EasyAPK(10solved,525pt)
 
@@ -232,11 +278,15 @@ key: n1ctf20205bf75ab0a30dfc0c
 
 附件下载：27b981aa7ffa16eedfb9ce5c60416ac8.apk
 
+<br/>
+
 #### Fixed Camera(11solved,499pt)
 
 > Arrow keys to operate the lens
 
 附件下载：e62e946640f508573c571a41d5cef93b.7z
+
+<br/>
 
 #### N1vault(2solved,909pt)
 
@@ -244,9 +294,13 @@ key: n1ctf20205bf75ab0a30dfc0c
 
 附件下载：80f32c0476290dbd8a7440bb2a2874fb.zip
 
+<br/>
+
 #### EasyRE(6solved,666pt)
 
 附件下载：1775f94da8b71fac02839312a8687cbd.zip
+
+<br/>
 
 #### Auth(1solved,1000pt)
 
@@ -260,11 +314,15 @@ key: n1ctf20205bf75ab0a30dfc0c
 
 附件下载：48801c9610ab191043e450017957f282.tgz.zip
 
+<br/>
+
 #### BabyCompiler(2solved,909pt)
 
 > hint1: tokens: YACC LEX CTF FUN + - * / ^ numbers
 
 附件下载：4cd3684118081d38f529c45539c25d76.zip
+
+<br/>
 
 #### BabyOS(2solved,909pt)
 
@@ -274,15 +332,21 @@ key: n1ctf20205bf75ab0a30dfc0c
 
 附件下载：0eeb145e3a66028cd200bfcb6198c8dc.zip
 
+<br/>
+
 #### Rrr(1solved,1000pt)
 
 > Maybe you need a powerful tool
 
 附件下载：ad53b84b1b0adab2aad7040dba313e9f.zip
 
+<br/>
+
 #### N1egg In Fixed Camera(37solved,217pt)
 
 > Arrow keys to operate the lens
+
+<br/>
 
 ### MISC
 
@@ -292,6 +356,8 @@ key: n1ctf20205bf75ab0a30dfc0c
 >
 > n1ctf{welc0m3_to_n1ctf2020_ctfers}
 
+<br/>
+
 #### N1egg-AllSignIn(17solved,383pt)
 
 > flags = misc_signin_flag + web_signin_flag + pwn_signin_flag + re_oflo_flag + crypto_vss_flag
@@ -300,6 +366,8 @@ key: n1ctf20205bf75ab0a30dfc0c
 >
 > print(flag)
 
+<br/>
+
 #### Filters(10solved,525pt)
 
 > http://101.32.188.147:23333/
@@ -307,6 +375,8 @@ key: n1ctf20205bf75ab0a30dfc0c
 > hint1: This challenge has an unintended solution. You could solve this challenge with ease. Additionally, you could also try to solve this challenge in the right way which is more interesting. Enjoy your game! Sorry for my bad.
 
 附件下载：e9806d5a92c8fbb754c5119d5b093b5f.zip
+
+<br/>
 
 #### GinDriver Revenge(1solved,1000pt)
 

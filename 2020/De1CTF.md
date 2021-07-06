@@ -2,19 +2,21 @@
 
 [De1CTF Hard_Pentest1&2 Writeup By W&M](https://mp.weixin.qq.com/s/mWKuJeTizlgrKrw1IcVwiw)
 
+网盘文档：
+
 [2020-De1CTFWP-Nu1L.pdf](../writeup/2020-De1CTFWP-Nu1L.pdf)
 
-
+<br/>
 
 ## 附件链接
 
-链接：https://pan.baidu.com/s/1AidmVqJPd339ejtxZszt6w 提取码：hdxw
+链接：https://pan.baidu.com/s/18IwKjwG4xrHtG84_I7qJ6Q 提取码：xing
 
-链接：https://share.weiyun.com/TKUPO9Nr 密码：1g1lyi
+链接：https://pan.xunlei.com/s/VMdu9mIFc5HnXiyhI9LiUU9wA1 提取码：wa3z
 
-外链:https://t1m.lanzous.com/b0aetosfg 密码:hdxw
+链接：https://ctf.lanzoui.com/b02c7se0j 密码:xing
 
-
+<br/>
 
 ## 题目信息
 
@@ -31,14 +33,14 @@
 >
 > hint2:we will ban the ip of people who make trouble 我们会ban掉捣乱的ip
 
-
+<br/>
 
 #### calc
 
 > Please calculate the content of file /flag
 > http://106.52.164.141
 
-
+<br/>
 
 #### Easy PHP UAF
 
@@ -54,7 +56,7 @@
 
 附件下载：libphp7.so.tar.gz
 
-
+<br/>
 
 #### mixture
 
@@ -70,7 +72,7 @@
 >
 > hint:扫描对题目没有帮助 burte force is not helping, please stop
 
-
+<br/>
 
 #### Hard_Pentest_1
 
@@ -78,7 +80,7 @@
 >
 > hint:flag is not in the web server flag不在web服务器
 
-
+<br/>
 
 #### Hard_Pentest_2
 
@@ -86,7 +88,7 @@
 >
 > http://47.113.219.76/
 
-
+<br/>
 
 #### check in
 
@@ -96,7 +98,7 @@
 >
 > hint:服务器5分钟重置一次 The server will reset every 5 mins
 
-
+<br/>
 
 #### mc_logclient
 
@@ -114,7 +116,7 @@
 >
 > hint2:common network protocol
 
-
+<br/>
 
 ### Reverse
 
@@ -131,7 +133,7 @@
 
 附件下载：little_elves_3754be6bd7d580d5cd5e85074461d2e5e25fcbc4c8dd4afaa06b66d92b9527e2.zip
 
-
+<br/>
 
 #### parser
 
@@ -143,7 +145,7 @@
 
 附件下载：parser.zip
 
-
+<br/>
 
 #### FLw
 
@@ -155,7 +157,7 @@
 
 附件下载：Q.exe
 
-
+<br/>
 
 #### mc_ticktock
 
@@ -175,7 +177,7 @@
 
 附件下载：webserver.zip
 
-
+<br/>
 
 ### Crypto
 
@@ -188,7 +190,7 @@
 
 附件下载：nlfsr.tar
 
-
+<br/>
 
 #### Mini Purε Plus
 
@@ -202,7 +204,7 @@
 
 附件下载：Mini Purε Plus.zip
 
-
+<br/>
 
 #### easyRSA
 
@@ -215,7 +217,7 @@
 
 附件下载：easyRSA.zip（yrs命中百度网盘敏感词，文件名改为easyR5A.zip）
 
-
+<br/>
 
 #### ECDH
 
@@ -232,7 +234,7 @@
 
 附件下载：ECDH.zip
 
-
+<br/>
 
 #### Homomorphic
 
@@ -248,7 +250,7 @@
 
 附件下载：Homomorphic.zip
 
-
+<br/>
 
 #### OV
 
@@ -264,7 +266,7 @@
 
 附件下载：OV.zip
 
-
+<br/>
 
 #### mc_noisemap
 
@@ -282,7 +284,7 @@
 
 源码下载：source.zip
 
-
+<br/>
 
 ### Pwn
 
@@ -300,7 +302,7 @@
 
 附件下载：cpp_attachment.zip
 
-
+<br/>
 
 #### BroadCastTest
 
@@ -316,7 +318,7 @@
 
 附件下载：BroadcastTest.apk
 
-
+<br/>
 
 #### pppd
 
@@ -336,7 +338,7 @@
 
 附件下载：attachment.zip
 
-
+<br/>
 
 #### code_runner
 
@@ -344,7 +346,7 @@
 >
 > nc 106.53.114.216 9999
 
-
+<br/>
 
 #### mc_realworld
 
@@ -365,7 +367,7 @@
 >
 > hint:If the bot didn't join in the game, try other node. The challenge was modified based on a minecraft-liked game written in C. https://github.com/fogleman/Craft
 
-
+<br/>
 
 ### MISC
 
@@ -377,7 +379,7 @@
 
 附件下载：Easy Protocol.zip
 
-
+<br/>
 
 #### life
 
@@ -387,7 +389,7 @@
 
 附件下载：game.zip
 
-
+<br/>
 
 #### Misc杂烩/Misc Chowder
 
@@ -411,7 +413,7 @@ https://drive.google.com/file/d/1JBdPj7eRaXuLCTFGn7AluAxmxQ4k1jvX/view
 De1CTF{E4Sy_M1sc_By_Jaivy_31b229908cb9bb}
 ```
 
-
+<br/>
 
 #### mc_easybgm
 
@@ -431,7 +433,7 @@ De1CTF{E4Sy_M1sc_By_Jaivy_31b229908cb9bb}
 
 附件下载：bgm.mp3
 
-
+<br/>
 
 #### mc_joinin
 
@@ -449,7 +451,7 @@ De1CTF{E4Sy_M1sc_By_Jaivy_31b229908cb9bb}
 >
 > hint:mc_joinin's flag is: De1CTF{md5(flag)} mc_joinin的flag格式为：De1CTF{md5(flag)}
 
-
+<br/>
 
 #### mc_champion
 
@@ -471,7 +473,7 @@ De1CTF{E4Sy_M1sc_By_Jaivy_31b229908cb9bb}
 >
 > hint:malfunction
 
-
+<br/>
 
 #### Welcome_to_the_2020_de1ctf
 
@@ -483,7 +485,7 @@ De1CTF{E4Sy_M1sc_By_Jaivy_31b229908cb9bb}
 De1CTF{m4y_th3_f0rc3_b3_w1th_y0u}
 ```
 
-
+<br/>
 
 #### De1CTF 2020 Questionnaire
 

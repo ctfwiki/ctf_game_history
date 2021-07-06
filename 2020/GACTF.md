@@ -1,8 +1,10 @@
 ## 比赛信息
 
-比赛网址：https://adworld.xctf.org.cn/match/contest_challenge?event=147&hash=cf494a33-0f22-4e85-a48d-7a02efeedc90.event
+> 比赛网址：https://adworld.xctf.org.cn/match/contest_challenge?event=147&hash=cf494a33-0f22-4e85-a48d-7a02efeedc90.event
+>
+> 比赛时间：2020年08月29日 09:00~2020年08月31日 09:00
 
-比赛时间：2020年08月29日 09:00~2020年08月31日 09:00
+<br/>
 
 ## Writeup
 
@@ -24,17 +26,17 @@
 
 网盘文档（链接见README.md）：2020-GACTF-WriteUp By Nu1L.pdf
 
-
+<br/>
 
 ## 附加链接
 
-链接：https://pan.baidu.com/s/1ml1ZknT6Zdn3VLrLC_Tk6Q 提取码：hdxw
+链接：https://pan.baidu.com/s/1yHK94LTjxG4avXBGtNBLMg 提取码：xing
 
-链接：https://share.weiyun.com/HnuxFzfY 密码：scnal1
+链接：https://pan.xunlei.com/s/VMduBAEeDNeuK4NeTJZZ3L-RA1 提取码：gzzf
 
-外链:https://t1m.lanzous.com/b0af57zbe 密码:hdxw
+链接：https://ctf.lanzoui.com/b02c7segf 密码:xing
 
-
+<br/>
 
 
 ## 题目信息
@@ -51,6 +53,8 @@
 
 附件下载：a72c3563682c49ecaaa575e9f1fa80ba.zip
 
+<br/>
+
 #### vmpwn(25solved,454pt)
 > an easy vm
 > China:
@@ -60,6 +64,8 @@
 
 附件下载：64306a28e3fd4410bd8e0869b739a5fd.zip
 
+<br/>
+
 #### student_manager(13solved,625pt)
 > China:
 > 124.70.197.50 9010 
@@ -67,6 +73,8 @@
 > 207.246.82.76 9010
 
 附件下载：10cba636b5c8413c8f8ba057422a1d12.zip
+
+<br/>
 
 #### feedback(0solved,1000pt)
 > China:
@@ -76,6 +84,8 @@
 
 附件下载：6d50f4e616ea49a99c52971dc3281c43.zip
 
+<br/>
+
 #### sandbox(6solved,800pt)
 > online judge
 > China:
@@ -84,6 +94,8 @@
 > http://149.28.31.156:12564
 
 c++沙箱，whitelist + blacklist
+
+<br/>
 
 #### easy_kernel(2solved,952pt)
 > hint1:
@@ -99,6 +111,8 @@ c++沙箱，whitelist + blacklist
 
 附件下载：easy_kernel1.zip
 
+<br/>
+
 #### babyqemu(6solved,800pt)
 > I have a gift for you, have fun :)  PS:username:root
 > 
@@ -109,6 +123,8 @@ c++沙箱，whitelist + blacklist
 > 149.248.16.204 8888
 
 附件下载：babyqemu.zip
+
+<br/>
 
 #### forest(1solved,1000pt)
 > Do you want to challenge Boss?Yeah, you must get out of this forest,
@@ -122,6 +138,8 @@ c++沙箱，whitelist + blacklist
 
 附件下载：forest_attachment.zip
 
+<br/>
+
 #### card(16solved,571pt)
 > China：
 > 119.3.154.59:9777 
@@ -129,6 +147,9 @@ c++沙箱，whitelist + blacklist
 > 45.77.72.122:9777
 
 附件下载：609b1ff8aec644778367bc22eb8d4aca.zip
+
+<br/>
+
 ### Crypto
 
 #### da Vinci after rsa(23solved,476pt)
@@ -136,6 +157,8 @@ c++沙箱，whitelist + blacklist
 >  flag{xxxx}
 
 附件下载：达芬奇.zip
+
+<br/>
 
 #### what_r_the_noise(54solved,273pt)
 > 噪音太大，听不见
@@ -164,23 +187,30 @@ all i give you is in gibberish
 :3
 ```
 
-
+<br/>
 
 #### square(25solved,454pt)
 > China 124.71.158.89:8888 
 > Overseas 104.207.132.137:8888
-> 
 
 附件下载：square.zip
+
+<br/>
 
 #### babycrypto(22solved,487pt)
 附件下载：challenge.zip
 
+<br/>
+
 #### elgaml_rsa(22solved,487pt)
 附件下载：elgaml_rsa.zip
 
+<br/>
+
 #### ezAES(44solved,317pt)
 附件下载：ezAes.zip
+
+<br/>
 
 ### Misc
 
@@ -188,17 +218,19 @@ all i give you is in gibberish
 > v is the hero in my mind 
 > hint1:注意每一帧图片的不同之处(Pay attention to the difference in each frame)
 > hint2:尝试找出藏在GIF图片内的二维码(Try to find the QR code hidden in the GIF picture)
-> 
 
-附件下载：v.zip（114M，微云没有）
+附件下载：v.zip（114M）
+
+<br/>
 
 #### capture(20solved,512pt)
 > 截获到的虚拟世界到现实世界的消息
 > 
 > message captured from virtual world to real world
-> 
 
 附件下载：captured.zip
+
+<br/>
 
 #### music(4solved,869pt)
 > 来听段音乐
@@ -209,22 +241,28 @@ all i give you is in gibberish
 
 附件下载：music.zip
 
+<br/>
+
 #### trihistory(24solved,465pt)
 > triple history
 > docker pull impakho/trihistory:latest
 
+<br/>
+
 #### RIG(10solved,689pt)
 > RIG是一个小有名气的黑客，圈内人都叫他exploit kid。RIG最近开发出了一套攻击工具包，利用浏览器漏洞在网络上兴风作浪。作为一个安全工程师的你，需要从捕获到的报文中找到RIG的攻击流量，从攻击流量中找到RIG使用的shellcode，提交shellcode的前13个字节的大写hex数据作为flag,温馨提示,请勿轻易运行哦:)  
 > RIG is a small well-known hacker, and everyone in the circle calls him an exploit kid. RIG has recently developed a set of attack toolkits to use browser vulnerabilities to make waves on the Internet. As a security engineer, you need to find the attack traffic of RIG from the captured packets, find the shellcode used by RIG from the attack traffic, and submit the first 13 bytes of uppercase hex data of the shellcode as the flag. Warm reminder, please Don't run it easily :)  
-> 
-
 
 附件下载：RIG.zip
+
+<br/>
 
 #### crymisc(65solved,238pt)
 > 8.25 is Chinese Valentine's Day.Yesterday my brother told me he was refused by a beautiful girl.He was sooooooooooooo sad and bursted into tears.
 
 附件下载：crymisc.zip
+
+<br/>
 
 #### misc_chunk(7solved,769pt)
 > 这是一道披着pwn皮的misc题
@@ -237,24 +275,26 @@ all i give you is in gibberish
 > 121.37.160.64 8888
 > Overseas: 
 > 108.160.128.22 8124
-> 
 
 附件下载：misc_chunk.zip
 
+<br/>
+
 #### oldmodem(17solved,555pt)
 > old modem (bell 202)
-> 
 
 附件下载：oldmodem.zip
+
+<br/>
 
 #### Minecraft Redstone Music(5solved,833pt)
 > 一首简单的红石音乐，但是出了点问题
 > An easy redstone music but something wrong
 > hint1:注意查看日志(Pay attention to the log)
 
-附件下载：minecraft.rar（432M，只百度网盘有）
+附件下载：minecraft.rar（432M）
 
-
+<br/>
 
 #### SignIN(454solved,42pt)
 > 内容裹上GACTF{}后提交
@@ -264,13 +304,15 @@ all i give you is in gibberish
 
 附件下载：315209b662bb46c6b5080e5794fc0480.zip
 
+<br/>
+
 #### GACTF FeedBack(114solved,150pt)
 > 问卷调查（FeedBack）：https://docs.google.com/forms/d/e/1FAIpQLSeiZiR5nkcP1M8UnJCblI3SanHSHTB2oa0CLrWSSs8DOs3odA/viewform?usp=sf_link
 ```
 GACTF{Thanks_for_your_FeedBack}
 ```
 
-
+<br/>
 
 ### Web
 
@@ -286,8 +328,10 @@ GACTF{Thanks_for_your_FeedBack}
 > 45.32.61.238 1234
 > 45.76.216.38 1234
 > 45.32.250.242 1234
-> 
+>
 > hint:拿了shell的师傅们手下留情吧，别捣乱了！
+
+<br/>
 
 #### babyshop(11solved,666pt)
 > babyshop
@@ -301,6 +345,8 @@ GACTF{Thanks_for_your_FeedBack}
 git泄露
 
 源码下载：babyshop.zip
+
+<br/>
 
 #### EZFLASK(50solved,289pt)
 > flask&flask
@@ -337,7 +383,7 @@ if __name__ == '__main__':
     app.run(host='0.0.0.0',port=8080)
 ```
 
-
+<br/>
 
 #### sssrfme(11solved,666pt)
 > 比EZFLASK更懂ssrf
@@ -421,7 +467,7 @@ highlight_file(__FILE__);
 curl($_GET['url']);
 ```
 
-
+<br/>
 
 #### say hello to the world(4solved,869pt)
 > 这就是一个简单的sayhello程序
@@ -439,7 +485,7 @@ curl($_GET['url']);
 use http://ip/Motan to say hello to Motan
 ```
 
-
+<br/>
 
 #### simpleflask(101solved,166pt)
 > 题目每10分钟重启，如遇到无法连接，请稍等片刻10秒左右会全部重启完毕
@@ -504,7 +550,7 @@ if __name__ == '__main__':
     app.run(host="0.0.0.0", debug=True)
 ```
 
-
+<br/>
 
 #### carefuleyes(26solved,444pt)
 > www.zip
@@ -514,13 +560,16 @@ if __name__ == '__main__':
 
 源码下载：www.zip
 
+<br/>
+
 ### Reverse
 
 #### EasyRe(38solved,350pt)
 > Layers of protection～
-> 
 
 附件下载：6ace662039c147fd91df87b162eb9dd4.zip
+
+<br/>
 
 #### InfaintRe(3solved,909pt)
 > This question is a simple reverse!
@@ -533,23 +582,29 @@ if __name__ == '__main__':
 
 附件下载：9c12b4fbe2734685862c8ad177bc4fbd.zip
 
+<br/>
+
 #### PicCompress(4solved,869pt)
 > hint1:压缩方法是使用数据的重复信息来进行数据压缩
 > hint1:The compression method is to compress the data by using the repeated information of the data
 
 附件下载：96d9bcbfb9bd4f0092b9a13e31e23f22.zip
 
+<br/>
+
 #### Simulator(25solved,454pt)
 > Study 《Introduction to Computer System》 carefully,the format of flag is GACTF{}
-> 
 
 附件下载：211cc42a209643d893acdcee481131e6.zip
+
+<br/>
 
 #### WannaFlag(40solved,338pt)
 附件下载：00c6d7a83c2d4e37a7f205cba025df12.zip
 
+<br/>
+
 #### Checkin(100solved,168pt)
 > It is recommended to use a virtual machine to run
-> 
 
 附件下载：461153d5b4674c3e94410baf895aae5e.zip

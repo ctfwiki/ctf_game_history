@@ -9,11 +9,11 @@
 
 ## 附件链接
 
-链接：https://pan.baidu.com/s/1flvDC_YXOenodWRcXHz7Ig 提取码：hdxw
+链接：https://pan.baidu.com/s/1C1K0I7kSj2x1S-673MuXoQ 提取码：xing
 
-链接：https://share.weiyun.com/Q1QOrT5n 密码：hxiu4t
+链接：https://pan.xunlei.com/s/VMdu1gWj3BiixGjOirFfRiTGA1 提取码：42zy
 
-外链:https://t1m.lanzous.com/b0aeszr8d 密码:hdxw
+链接：https://ctf.lanzoui.com/b02c7rxwj 密码:xing
 
 部分附件下载：https://github.com/lepPwn/CTF-Games
 
