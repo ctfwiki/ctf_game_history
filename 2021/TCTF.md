@@ -10,6 +10,14 @@
 
 ## writeup
 
+[TCTF/0CTF 2021 WriteUp By W&M（RE和CRYPTO部分）](https://mp.weixin.qq.com/s/CBoiCX8W1ergFNuyNVgTFQ)
+
+[TCTF/0CTF 2021 WriteUp By W&M（MISC部分）](https://mp.weixin.qq.com/s/bMvshmKrA3oAbzKvTesQ2A)
+
+[TCTF/0CTF 2021 WriteUp By W&M（PWN部分）](https://mp.weixin.qq.com/s/IuNDe96vlkXl9iXL6yod9g)
+
+[TCTF/0CTF 2021 WriteUp By W&M（WEB部分）](https://mp.weixin.qq.com/s/K-sEJMhGYjn2aee5hurOww)
+
 网盘文档：
 
 2021-TCTF-WriteUp-By-Nu1L.pdf

@@ -16,6 +16,12 @@
 
 [GKCTF2021-HA1C9ON](https://ha1c9on.top/2021/06/27/gkctf2021/)
 
+[DASCTF｜June GKCTF X DASCTF应急挑战杯WriteUP-PWN&REVERSE篇](https://mp.weixin.qq.com/s/5XBevlxcIGXdwnXq2fnodA)
+
+[DASCTF｜June GKCTF X DASCTF应急挑战杯WriteUP-MISC&CRYPTO篇](https://mp.weixin.qq.com/s/SmAaMqHMEdKw3miLDLyWVA)
+
+[DASCTF｜June GKCTF X DASCTF应急挑战杯WriteUP-WEB篇](https://mp.weixin.qq.com/s/U8CG6yXEeucelQfneh4vuw)
+
 网盘文档：
 
 [2021-GKCTF-NAN-WP.pdf](../writeup/2021-GKCTF-NAN-WP.pdf)
