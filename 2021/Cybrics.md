@@ -12,6 +12,18 @@
 
 [CyBRICS 2021-WriteUp-Venom](https://mp.weixin.qq.com/s/AHneWgEOMn98dQLp789QSA)
 
+[CyBRICS CTF 2021 By W&M（WEB和Network）部分](https://mp.weixin.qq.com/s/SQ-DGvug-P6PK-s3qkJVdw)
+
+[CyBRICS CTF 2021 By W&M（CTB和Cyber部分）](https://mp.weixin.qq.com/s/1d96EmSId0clSC-ryCjYEw)
+
+[CyBRICS CTF 2021 By W&M（Reverse部分）](https://mp.weixin.qq.com/s/o798bZoj99ba-nMkN7R4Rg)
+
+[CyBRICS CTF 2021 By W&M（Forensic和rebyC部分）](https://mp.weixin.qq.com/s/fGumnTqBVr9B17cbSU5fZA)
+
+网盘文档：
+
+2021-CybricsCTF-Nu1L.pdf
+
 <br/>
 
 ## 附件链接
