@@ -44,6 +44,8 @@ writeup文档文件网盘链接如下（内容相同，任选其一）：
 > 链接：https://pan.xunlei.com/s/VMdqSuES3bfsjaifeyGCDth7A1 提取码：u5fa
 >
 > 链接：https://ctf.lanzoui.com/b02c7rm3e 密码:xing
+>
+> 链接：https://www.aliyundrive.com/s/ZKL7MqGAmPZ
 
 <br/>
 

@@ -16,6 +16,8 @@
 
 [2020 BMZCTF Re&Pwn WriteUp](https://www.richar.top/2020/12/25/bmzctf-2020-wp/)
 
+[BMZCTF -- WP-RE](https://www.cnblogs.com/pupububu/p/14218706.html)
+
 <br/>
 
 ## 附件链接

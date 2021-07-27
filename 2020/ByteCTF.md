@@ -12,6 +12,8 @@
 
 [Bytectf2020 writeup by W&M](https://mp.weixin.qq.com/s/4OVC10crL1rBFrNf9wyUTg)
 
+[ByteCTF2020 Writeup by X1cT34m](https://ctf.njupt.edu.cn/545.html)
+
 网盘文档（链接见README.md）：
 
 2020-ByteCTF部分题目-官方Writeup.pdf
