@@ -8,6 +8,14 @@
 
 <br/>
 
+## writeup
+
+网盘文档
+
+[2021-RCTF-WriteUp-By-Nu1L.pdf](../writeup/2021-RCTF-WriteUp-By-Nu1L.pdf)
+
+<br/>
+
 ## 附件链接
 
 链接：https://pan.baidu.com/s/1PX9QNBnsmCVInR-hzJlk3g 提取码：xing

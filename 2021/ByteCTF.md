@@ -8,6 +8,28 @@
 
 <br/>
 
+## writeup
+
+[2021 ByteCTF 初赛部分题目官方Writeup](https://bytectf.feishu.cn/docs/doccnq7Z5hqRBMvrmpRQMAGEK4e)
+
+[ByteCTF-WriteUp-Venom](https://mp.weixin.qq.com/s/k8wrSSra_NO165RLM_CrUw)
+
+[ByteCTF 2021 By W&M（PWN）部分](https://mp.weixin.qq.com/s/fqX-ICojKhe-FBGCLhWB0A)
+
+[ByteCTF 2021 By W&M（REVERSE）部分](https://mp.weixin.qq.com/s/h-wTnquhBTB8EzU5pYmPDg)
+
+[ByteCTF 2021 By W&M（MISC）部分](https://mp.weixin.qq.com/s/_A3TjeAZ0yAnpvxyn0wWCA)
+
+[ByteCTF 2021 By W&M（WEB）部分](https://mp.weixin.qq.com/s/s59xN-QI9oNPrkjhuXtPyw)
+
+[ByteCTF 2021 By W&M（Crypto）部分](https://mp.weixin.qq.com/s/LpFb9qlrazb7o-zZFuZufw)
+
+网盘文档
+
+[2021-ByteCTF-初赛部分题目官方Writeup.pdf](../writeup/2021-ByteCTF-初赛部分题目官方Writeup.pdf)
+
+<br/>
+
 ## 附件链接
 
 链接：https://pan.baidu.com/s/1r_hCcPY7yIhCcf9tEcaIdQ 提取码：xing
@@ -22,7 +44,7 @@
 
 ### PWN
 
-#### bytezoom(s,p)
+#### bytezoom(39s,344p)
 
 > nc 39.105.37.172 30012
 > nc 39.105.103.24 30012
@@ -32,7 +54,7 @@
 
 <br/>
 
-#### ByteCSMS(s,p)
+#### ByteCSMS(11s,666p)
 
 > Bytectf admin will use the system to manage your score, hacker it.
 > nc 39.105.37.172 30011
@@ -43,7 +65,7 @@
 
 <br/>
 
-#### babydroid(s,p)
+#### babydroid(19s,526p)
 
 > Have you watched the live sharing on 10.12?
 > nc 39.107.138.253 30001
@@ -52,7 +74,7 @@
 
 <br/>
 
-#### easydroid(s,p)
+#### easydroid(14s,606p)
 
 > Have you watched the live sharing on 10.12?
 > nc 39.107.138.253 30002
@@ -65,7 +87,7 @@
 
 <br/>
 
-#### mediumdroid(s,p)
+#### mediumdroid(4s,869p)
 
 > It looks like a weird permission has been granted
 > nc 39.107.138.253 30003
@@ -74,7 +96,7 @@
 
 <br/>
 
-#### chatroom(s,p)
+#### chatroom(4s,869p)
 
 > Exploit my chatroom
 >
@@ -88,7 +110,7 @@
 
 ### REVERSE
 
-#### moderncpp(s,p)
+#### moderncpp(19s,526p)
 
 > flag格式为bytectf{}
 
@@ -96,7 +118,7 @@
 
 <br/>
 
-#### bytecert(s,p)
+#### bytecert(4s,869p)
 
 > Cannot connect without a bytecert
 > nc 39.107.138.253 30021
@@ -107,7 +129,7 @@
 
 <br/>
 
-#### 0x6d21(s,p)
+#### 0x6d21(16s,571p)
 
 > Never give up！！！
 
@@ -115,7 +137,7 @@
 
 <br/>
 
-#### languages binding(s,p)
+#### languages binding(13s,625p)
 
 > 2 program languages binding , enjoy it
 >
@@ -125,7 +147,7 @@
 
 <br/>
 
-#### Baby Bytal(s,p)
+#### Baby Bytal(4s,869p)
 
 > Can y0u re@d my 50uRc3 cod3 and ge7 the f1a9?
 >
@@ -139,9 +161,11 @@
 
 <br/>
 
-#### Mother Bytal(s,p)
+#### Mother Bytal(1s,1000p)
 
 > Can y0u f1nd c0rrec7 1nput im@93?
+>
+> hint: The algorithm running on GPU is a custom 2d image filter
 
 附件下载：3454cb9acb3c46a6952b081d7967e32c.zip
 
@@ -149,13 +173,13 @@
 
 ### MISC
 
-#### BabyShark(s,p)
+#### BabyShark(8s,740p)
 
 附件下载：cb5a835747374f52920e5878de657406.zip
 
 <br/>
 
-#### Lost Excel(s,p)
+#### Lost Excel(6s,800p)
 
 > Please find out who leaked this document asap
 >
@@ -165,7 +189,7 @@
 
 <br/>
 
-#### frequently(s,p)
+#### frequently(25s,454p)
 
 > Someone wants to send secret information through a surreptitious channel. Could you intercept their communications?
 
@@ -173,7 +197,7 @@
 
 <br/>
 
-#### HearingNotBelieving(s,p)
+#### HearingNotBelieving(107s,158p)
 
 > Hearing is not believing
 
@@ -181,7 +205,18 @@
 
 <br/>
 
-#### Checkin(s,p)
+#### Survey(129s,135p)
+
+> Thank you for playing ByteCTF!
+> Visit https://www.wjx.cn/vj/eywKU3d.aspx and get the flag!
+
+```
+ByteCTF{h0p3_y0u_Enjoy_our_ch4ll3n9es!}
+```
+
+<br/>
+
+#### Checkin(433s,44p)
 
 > 字节跳动安全系列活动主题名字是什么？你造吗？关注【字节跳动安全中心】公众号并回复本次大赛主题（4字），会有意外惊喜！
 
@@ -193,7 +228,7 @@ ByteCTF{Empower_Security_Enrich_Life}
 
 ### WEB
 
-#### double sqli(s,p)
+#### double sqli(57s,263p)
 
 > easy sqli
 >
@@ -203,7 +238,7 @@ ByteCTF{Empower_Security_Enrich_Life}
 
 <br/>
 
-#### Unsecure Blog(s,p)
+#### Unsecure Blog(10s,689p)
 
 > jdk(x64)：java version "1.8.0_301"
 > flag is in：HKEY_CURRENT_USER\ByteCTF\flag
@@ -223,7 +258,7 @@ ByteCTF{Empower_Security_Enrich_Life}
 
 <br/>
 
-#### Aginx(s,p)
+#### Aginx(1s,1000p)
 
 > A platform can show your essays to express your love for [A-SOUL](https://space.bilibili.com/703007996)!!!
 >
@@ -249,17 +284,21 @@ ByteCTF{Empower_Security_Enrich_Life}
 
 <br/>
 
-#### easy_extract(s,p)
+#### easy_extract(3s,909p)
 
 > I learn nodejs by building this website in August. There shouldn't be any security issue since there is just one function...
 >
 > [http://39.107.98.218:30090](http://39.107.98.218:30090/)
 > [http://39.105.118.216:30090](http://39.105.118.216:30090/)
 > [http://39.105.31.50:30090](http://39.105.31.50:30090/)
+>
+> hint1: It is important to figure out how the website is started.
+>
+> hint2: 1. require('tar@6.1.6'); 2.The file size limit is 1024 bytes, which is sufficient to complete the chall.
 
 <br/>
 
-#### sp-oauth(s,p)
+#### sp-oauth(0s,1000p)
 
 > To get flag, you need a rce.
 >
@@ -269,34 +308,18 @@ ByteCTF{Empower_Security_Enrich_Life}
 > hint1: spring-oauth
 >
 > hint2: hint: https://bytectf.feishu.cn/file/boxcnfs5Ymw5x3gke6ZkVPyvtbg
+>
+> hint3: The flag is in IdP(30002) and the pom.xml of IdP(30002) may be useful for you. https://bytectf.feishu.cn/file/boxcn5zlv53KGo2fsRqNSLwRSTf
+>
+> hint4: Admin user will check your link after submit
 
-```java
-//sp-oauth_hint1.txt
-@RequestMapping("/zwo/callback")
-    public String getToken(@RequestParam String code, HttpServletRequest request) throws Exception{
-        
-        ...
-        
-        MultiValueMap<String, String> params = new LinkedMultiValueMap<>();
-        params.add("grant_type","authorization_code");
-        params.add("code",code);
-        params.add("client_id","62608e08adc29a8d6dbc9754e659f125");
-        params.add("client_secret","9xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx9");
-        params.add("redirect_uri",java.net.URLDecoder.decode(new String(request.getRequestURL()), "UTF-8"));
-        HttpEntity<MultiValueMap<String, String>> requestEntity = new HttpEntity<>(params,headers);
-        ResponseEntity<String> response = restTemplate.postForEntity("http://"+ idpsocket +"/oauth/token", requestEntity, String.class);
-        String resp  = response.getBody();
-        
-        ...
-
-    }
-```
+附件下载：sp-oauth.zip
 
 <br/>
 
 ### CRYPTO
 
-#### abusedkey(s,p)
+#### abusedkey(16s,571p)
 
 > A weak key is used in two insecure cryptographic protocol instance.
 >
@@ -309,7 +332,7 @@ ByteCTF{Empower_Security_Enrich_Life}
 
 <br/>
 
-#### JustDecrypt(s,p)
+#### JustDecrypt(22s,487p)
 
 > It's just a decryption system. And I heard that only the Bytedancers can get secret.
 >
@@ -320,7 +343,7 @@ ByteCTF{Empower_Security_Enrich_Life}
 
 <br/>
 
-#### Overheard(s,p)
+#### Overheard(19s,526p)
 
 > nc 39.105.38.192 30000
 > nc 47.95.109.47 30000
@@ -329,7 +352,7 @@ ByteCTF{Empower_Security_Enrich_Life}
 
 <br/>
 
-#### easyxor(s,p)
+#### easyxor(50s,289p)
 
 > Block cipher is used frequently.
 
